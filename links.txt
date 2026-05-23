@@ -1,0 +1,12 @@
+1,Sub-8,https://s1.chess-results.com/tnr1391409.aspx
+1,Sub-10,https://s1.chess-results.com/tnr1391410.aspx
+1,Sub-12,https://s1.chess-results.com/tnr1391411.aspx
+1,Sub-14,https://s1.chess-results.com/tnr1391412.aspx
+1,Sub-16,https://s1.chess-results.com/tnr1391413.aspx
+1,Libres,https://s1.chess-results.com/tnr1391414.aspx
+2,Sub-8,https://s1.chess-results.com/tnr1417595.aspx
+2,Sub-10,https://s1.chess-results.com/tnr1417600.aspx
+2,Sub-12,https://s1.chess-results.com/tnr1417605.aspx
+2,Sub-14,https://s1.chess-results.com/tnr1417606.aspx
+2,Sub-16,https://s1.chess-results.com/tnr1417608.aspx
+2,Libres,https://s1.chess-results.com/tnr1417617.aspx
