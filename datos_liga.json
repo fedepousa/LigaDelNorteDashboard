@@ -1,0 +1,5154 @@
+{
+  "Sub-10": {
+    "fases": {
+      "Fase 1": {
+        "link_chess_results": "#",
+        "resultados": [
+          {
+            "Posicion": 1,
+            "Jugador": "Pentray, Mirko",
+            "Procedencia": "Lobos",
+            "Puntos": 6.0
+          },
+          {
+            "Posicion": 2,
+            "Jugador": "Montilla Pereda, Ernesto Miguel",
+            "Procedencia": "Tigre",
+            "Puntos": 6.0
+          },
+          {
+            "Posicion": 3,
+            "Jugador": "Garcia Della Vecchia, Agustin",
+            "Procedencia": "San Miguel",
+            "Puntos": 5.0
+          },
+          {
+            "Posicion": 4,
+            "Jugador": "Edrosa, Joaquin",
+            "Procedencia": "Luján",
+            "Puntos": 5.0
+          },
+          {
+            "Posicion": 5,
+            "Jugador": "Dominguez, Segundo",
+            "Procedencia": "Escobar",
+            "Puntos": 4.5
+          },
+          {
+            "Posicion": 6,
+            "Jugador": "Actis Grosso, Lisandro",
+            "Procedencia": "Lobos",
+            "Puntos": 4.5
+          },
+          {
+            "Posicion": 7,
+            "Jugador": "Gallegos, Olivia Isabel",
+            "Procedencia": "Jauregui",
+            "Puntos": 4.5
+          },
+          {
+            "Posicion": 8,
+            "Jugador": "Loiza, Felipe",
+            "Procedencia": "Lobos",
+            "Puntos": 4.5
+          },
+          {
+            "Posicion": 9,
+            "Jugador": "Silvetti Cifulella, Tiziano",
+            "Procedencia": "Jauregui",
+            "Puntos": 4.0
+          },
+          {
+            "Posicion": 10,
+            "Jugador": "Erro, Valentin",
+            "Procedencia": "Escobar",
+            "Puntos": 4.0
+          },
+          {
+            "Posicion": 11,
+            "Jugador": "Gonzalez, Julieta",
+            "Procedencia": "-",
+            "Puntos": 4.0
+          },
+          {
+            "Posicion": 12,
+            "Jugador": "Stanganelli, Luca Tomas",
+            "Procedencia": "Escobar",
+            "Puntos": 3.5
+          },
+          {
+            "Posicion": 13,
+            "Jugador": "Carley, Tomas",
+            "Procedencia": "-",
+            "Puntos": 3.0
+          },
+          {
+            "Posicion": 14,
+            "Jugador": "Pazos, Enzo",
+            "Procedencia": "Lobos",
+            "Puntos": 3.0
+          },
+          {
+            "Posicion": 15,
+            "Jugador": "Gonzalez, Lucas Gonzalez",
+            "Procedencia": "Escobar",
+            "Puntos": 3.0
+          },
+          {
+            "Posicion": 16,
+            "Jugador": "Mionis, Felipe",
+            "Procedencia": "Escobar",
+            "Puntos": 3.0
+          },
+          {
+            "Posicion": 17,
+            "Jugador": "Ciani, Cipriano",
+            "Procedencia": "Lobos",
+            "Puntos": 3.0
+          },
+          {
+            "Posicion": 18,
+            "Jugador": "Realini, Nael",
+            "Procedencia": "Lobos",
+            "Puntos": 3.0
+          },
+          {
+            "Posicion": 19,
+            "Jugador": "Cotta, Lautaro",
+            "Procedencia": "Suipacha",
+            "Puntos": 3.0
+          },
+          {
+            "Posicion": 20,
+            "Jugador": "Rodriguez, Delfina",
+            "Procedencia": "Escobar",
+            "Puntos": 2.5
+          },
+          {
+            "Posicion": 21,
+            "Jugador": "Grotiuz, Bautista",
+            "Procedencia": "Tigre",
+            "Puntos": 2.0
+          },
+          {
+            "Posicion": 22,
+            "Jugador": "Freites, Bella",
+            "Procedencia": "Escobar",
+            "Puntos": 1.5
+          },
+          {
+            "Posicion": 23,
+            "Jugador": "Trobec, Victoria",
+            "Procedencia": "Villars",
+            "Puntos": 1.5
+          }
+        ]
+      },
+      "Fase 2": {
+        "link_chess_results": "#",
+        "resultados": [
+          {
+            "Posicion": 1,
+            "Jugador": "Di Bernardini, Ciro",
+            "Procedencia": "General Rodríguez",
+            "Puntos": 6.0
+          },
+          {
+            "Posicion": 2,
+            "Jugador": "Montilla Pereda, Ernesto",
+            "Procedencia": "Tigre",
+            "Puntos": 6.0
+          },
+          {
+            "Posicion": 3,
+            "Jugador": "Pentray, Mirko",
+            "Procedencia": "Lobos",
+            "Puntos": 5.0
+          },
+          {
+            "Posicion": 4,
+            "Jugador": "Silvetti Cifulella, Tiziano",
+            "Procedencia": "Jauregui",
+            "Puntos": 5.0
+          },
+          {
+            "Posicion": 5,
+            "Jugador": "Stanganelli, Tomas",
+            "Procedencia": "Escobar",
+            "Puntos": 5.0
+          },
+          {
+            "Posicion": 6,
+            "Jugador": "Rios, Alejo Francisco",
+            "Procedencia": "Escobar",
+            "Puntos": 4.5
+          },
+          {
+            "Posicion": 7,
+            "Jugador": "Cianni, Cipriano",
+            "Procedencia": "Lobos",
+            "Puntos": 4.0
+          },
+          {
+            "Posicion": 8,
+            "Jugador": "Gomez Padula, Benicio",
+            "Procedencia": "Mercedes",
+            "Puntos": 4.0
+          },
+          {
+            "Posicion": 9,
+            "Jugador": "Dominguez, Segundo",
+            "Procedencia": "Escobar",
+            "Puntos": 4.0
+          },
+          {
+            "Posicion": 10,
+            "Jugador": "Erro, Valentin",
+            "Procedencia": "Escobar",
+            "Puntos": 4.0
+          },
+          {
+            "Posicion": 11,
+            "Jugador": "Loiza, Felipe",
+            "Procedencia": "Lobos",
+            "Puntos": 3.5
+          },
+          {
+            "Posicion": 12,
+            "Jugador": "Carley, Tomas",
+            "Procedencia": "Lobos",
+            "Puntos": 3.0
+          },
+          {
+            "Posicion": 13,
+            "Jugador": "Gonzalez, Julieta",
+            "Procedencia": "Escobar",
+            "Puntos": 3.0
+          },
+          {
+            "Posicion": 14,
+            "Jugador": "Cotta, Lautaro",
+            "Procedencia": "Suipacha",
+            "Puntos": 3.0
+          },
+          {
+            "Posicion": 15,
+            "Jugador": "Pavon, Francisco",
+            "Procedencia": "-",
+            "Puntos": 3.0
+          },
+          {
+            "Posicion": 16,
+            "Jugador": "Grotiuz, Bautista",
+            "Procedencia": "Tigre",
+            "Puntos": 3.0
+          },
+          {
+            "Posicion": 17,
+            "Jugador": "Realini, Nael",
+            "Procedencia": "Lobos",
+            "Puntos": 3.0
+          },
+          {
+            "Posicion": 18,
+            "Jugador": "Edrosa, Joaquin",
+            "Procedencia": "Luján",
+            "Puntos": 2.5
+          },
+          {
+            "Posicion": 19,
+            "Jugador": "Pazos, Enzo",
+            "Procedencia": "Lobos",
+            "Puntos": 2.5
+          },
+          {
+            "Posicion": 20,
+            "Jugador": "Sigampa, Simon Felix",
+            "Procedencia": "General Rodríguez",
+            "Puntos": 2.0
+          },
+          {
+            "Posicion": 21,
+            "Jugador": "Trobec, Victoria",
+            "Procedencia": "Villars",
+            "Puntos": 1.0
+          }
+        ]
+      }
+    },
+    "acumulado_puntos": [
+      {
+        "Jugador": "Pentray, Mirko",
+        "Puntos": 11.0,
+        "Procedencia": "Lobos"
+      },
+      {
+        "Jugador": "Silvetti Cifulella, Tiziano",
+        "Puntos": 9.0,
+        "Procedencia": "Jauregui"
+      },
+      {
+        "Jugador": "Dominguez, Segundo",
+        "Puntos": 8.5,
+        "Procedencia": "Escobar"
+      },
+      {
+        "Jugador": "Erro, Valentin",
+        "Puntos": 8.0,
+        "Procedencia": "Escobar"
+      },
+      {
+        "Jugador": "Loiza, Felipe",
+        "Puntos": 8.0,
+        "Procedencia": "Lobos"
+      },
+      {
+        "Jugador": "Edrosa, Joaquin",
+        "Puntos": 7.5,
+        "Procedencia": "Luján"
+      },
+      {
+        "Jugador": "Gonzalez, Julieta",
+        "Puntos": 7.0,
+        "Procedencia": "Escobar"
+      },
+      {
+        "Jugador": "Montilla Pereda, Ernesto Miguel",
+        "Puntos": 6.0,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Di Bernardini, Ciro",
+        "Puntos": 6.0,
+        "Procedencia": "General Rodríguez"
+      },
+      {
+        "Jugador": "Montilla Pereda, Ernesto",
+        "Puntos": 6.0,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Realini, Nael",
+        "Puntos": 6.0,
+        "Procedencia": "Lobos"
+      },
+      {
+        "Jugador": "Cotta, Lautaro",
+        "Puntos": 6.0,
+        "Procedencia": "Suipacha"
+      },
+      {
+        "Jugador": "Carley, Tomas",
+        "Puntos": 6.0,
+        "Procedencia": "Lobos"
+      },
+      {
+        "Jugador": "Pazos, Enzo",
+        "Puntos": 5.5,
+        "Procedencia": "Lobos"
+      },
+      {
+        "Jugador": "Garcia Della Vecchia, Agustin",
+        "Puntos": 5.0,
+        "Procedencia": "San Miguel"
+      },
+      {
+        "Jugador": "Stanganelli, Tomas",
+        "Puntos": 5.0,
+        "Procedencia": "Escobar"
+      },
+      {
+        "Jugador": "Grotiuz, Bautista",
+        "Puntos": 5.0,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Gallegos, Olivia Isabel",
+        "Puntos": 4.5,
+        "Procedencia": "Jauregui"
+      },
+      {
+        "Jugador": "Rios, Alejo Francisco",
+        "Puntos": 4.5,
+        "Procedencia": "Escobar"
+      },
+      {
+        "Jugador": "Actis Grosso, Lisandro",
+        "Puntos": 4.5,
+        "Procedencia": "Lobos"
+      },
+      {
+        "Jugador": "Cianni, Cipriano",
+        "Puntos": 4.0,
+        "Procedencia": "Lobos"
+      },
+      {
+        "Jugador": "Gomez Padula, Benicio",
+        "Puntos": 4.0,
+        "Procedencia": "Mercedes"
+      },
+      {
+        "Jugador": "Stanganelli, Luca Tomas",
+        "Puntos": 3.5,
+        "Procedencia": "Escobar"
+      },
+      {
+        "Jugador": "Pavon, Francisco",
+        "Puntos": 3.0,
+        "Procedencia": "-"
+      },
+      {
+        "Jugador": "Gonzalez, Lucas Gonzalez",
+        "Puntos": 3.0,
+        "Procedencia": "Escobar"
+      },
+      {
+        "Jugador": "Ciani, Cipriano",
+        "Puntos": 3.0,
+        "Procedencia": "Lobos"
+      },
+      {
+        "Jugador": "Mionis, Felipe",
+        "Puntos": 3.0,
+        "Procedencia": "Escobar"
+      },
+      {
+        "Jugador": "Trobec, Victoria",
+        "Puntos": 2.5,
+        "Procedencia": "Villars"
+      },
+      {
+        "Jugador": "Rodriguez, Delfina",
+        "Puntos": 2.5,
+        "Procedencia": "Escobar"
+      },
+      {
+        "Jugador": "Sigampa, Simon Felix",
+        "Puntos": 2.0,
+        "Procedencia": "General Rodríguez"
+      },
+      {
+        "Jugador": "Freites, Bella",
+        "Puntos": 1.5,
+        "Procedencia": "Escobar"
+      }
+    ],
+    "acumulado_gp": [
+      {
+        "Jugador": "Pentray, Mirko",
+        "Puntos_GP": 40.0,
+        "Procedencia": "Lobos"
+      },
+      {
+        "Jugador": "Di Bernardini, Ciro",
+        "Puntos_GP": 25.0,
+        "Procedencia": "General Rodríguez"
+      },
+      {
+        "Jugador": "Montilla Pereda, Ernesto",
+        "Puntos_GP": 18.0,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Montilla Pereda, Ernesto Miguel",
+        "Puntos_GP": 18.0,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Garcia Della Vecchia, Agustin",
+        "Puntos_GP": 15.0,
+        "Procedencia": "San Miguel"
+      },
+      {
+        "Jugador": "Silvetti Cifulella, Tiziano",
+        "Puntos_GP": 14.0,
+        "Procedencia": "Jauregui"
+      },
+      {
+        "Jugador": "Dominguez, Segundo",
+        "Puntos_GP": 12.0,
+        "Procedencia": "Escobar"
+      },
+      {
+        "Jugador": "Edrosa, Joaquin",
+        "Puntos_GP": 12.0,
+        "Procedencia": "Luján"
+      },
+      {
+        "Jugador": "Stanganelli, Tomas",
+        "Puntos_GP": 10.0,
+        "Procedencia": "Escobar"
+      },
+      {
+        "Jugador": "Rios, Alejo Francisco",
+        "Puntos_GP": 8.0,
+        "Procedencia": "Escobar"
+      },
+      {
+        "Jugador": "Actis Grosso, Lisandro",
+        "Puntos_GP": 8.0,
+        "Procedencia": "Lobos"
+      },
+      {
+        "Jugador": "Cianni, Cipriano",
+        "Puntos_GP": 6.0,
+        "Procedencia": "Lobos"
+      },
+      {
+        "Jugador": "Gallegos, Olivia Isabel",
+        "Puntos_GP": 6.0,
+        "Procedencia": "Jauregui"
+      },
+      {
+        "Jugador": "Gomez Padula, Benicio",
+        "Puntos_GP": 4.0,
+        "Procedencia": "Mercedes"
+      },
+      {
+        "Jugador": "Loiza, Felipe",
+        "Puntos_GP": 4.0,
+        "Procedencia": "Lobos"
+      },
+      {
+        "Jugador": "Erro, Valentin",
+        "Puntos_GP": 2.0,
+        "Procedencia": "Escobar"
+      },
+      {
+        "Jugador": "Gonzalez, Julieta",
+        "Puntos_GP": 0.0,
+        "Procedencia": "Escobar"
+      },
+      {
+        "Jugador": "Gonzalez, Lucas Gonzalez",
+        "Puntos_GP": 0.0,
+        "Procedencia": "Escobar"
+      },
+      {
+        "Jugador": "Cotta, Lautaro",
+        "Puntos_GP": 0.0,
+        "Procedencia": "Suipacha"
+      },
+      {
+        "Jugador": "Ciani, Cipriano",
+        "Puntos_GP": 0.0,
+        "Procedencia": "Lobos"
+      },
+      {
+        "Jugador": "Carley, Tomas",
+        "Puntos_GP": 0.0,
+        "Procedencia": "Lobos"
+      },
+      {
+        "Jugador": "Freites, Bella",
+        "Puntos_GP": 0.0,
+        "Procedencia": "Escobar"
+      },
+      {
+        "Jugador": "Mionis, Felipe",
+        "Puntos_GP": 0.0,
+        "Procedencia": "Escobar"
+      },
+      {
+        "Jugador": "Pazos, Enzo",
+        "Puntos_GP": 0.0,
+        "Procedencia": "Lobos"
+      },
+      {
+        "Jugador": "Pavon, Francisco",
+        "Puntos_GP": 0.0,
+        "Procedencia": "-"
+      },
+      {
+        "Jugador": "Grotiuz, Bautista",
+        "Puntos_GP": 0.0,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Realini, Nael",
+        "Puntos_GP": 0.0,
+        "Procedencia": "Lobos"
+      },
+      {
+        "Jugador": "Sigampa, Simon Felix",
+        "Puntos_GP": 0.0,
+        "Procedencia": "General Rodríguez"
+      },
+      {
+        "Jugador": "Rodriguez, Delfina",
+        "Puntos_GP": 0.0,
+        "Procedencia": "Escobar"
+      },
+      {
+        "Jugador": "Stanganelli, Luca Tomas",
+        "Puntos_GP": 0.0,
+        "Procedencia": "Escobar"
+      },
+      {
+        "Jugador": "Trobec, Victoria",
+        "Puntos_GP": 0.0,
+        "Procedencia": "Villars"
+      }
+    ]
+  },
+  "Sub-14": {
+    "fases": {
+      "Fase 1": {
+        "link_chess_results": "#",
+        "resultados": [
+          {
+            "Posicion": 1,
+            "Jugador": "Frias Perez, Mateo",
+            "Procedencia": "Derqui",
+            "Puntos": 6.0
+          },
+          {
+            "Posicion": 2,
+            "Jugador": "Villar, Rodrigo",
+            "Procedencia": "Campana",
+            "Puntos": 5.5
+          },
+          {
+            "Posicion": 3,
+            "Jugador": "Amarilla, Eros Benjamin",
+            "Procedencia": "General Rodríguez",
+            "Puntos": 5.5
+          },
+          {
+            "Posicion": 4,
+            "Jugador": "Cordoba, Bautista",
+            "Procedencia": "General Rodríguez",
+            "Puntos": 5.0
+          },
+          {
+            "Posicion": 5,
+            "Jugador": "Loayza, Ian",
+            "Procedencia": "Tigre",
+            "Puntos": 5.0
+          },
+          {
+            "Posicion": 6,
+            "Jugador": "Gonzalez, Felipe Edgardo",
+            "Procedencia": "Escobar",
+            "Puntos": 4.5
+          },
+          {
+            "Posicion": 7,
+            "Jugador": "Escaiola Martinez, Ian",
+            "Procedencia": "Tigre",
+            "Puntos": 4.5
+          },
+          {
+            "Posicion": 8,
+            "Jugador": "Acosta, Ivan",
+            "Procedencia": "Marcos Paz",
+            "Puntos": 4.0
+          },
+          {
+            "Posicion": 9,
+            "Jugador": "Gomez, Maiten Xiomara Francisca",
+            "Procedencia": "Escobar",
+            "Puntos": 4.0
+          },
+          {
+            "Posicion": 10,
+            "Jugador": "Silvetti Cifulella, Francesca",
+            "Procedencia": "Jauregui",
+            "Puntos": 4.0
+          },
+          {
+            "Posicion": 11,
+            "Jugador": "Martinez, Inaki",
+            "Procedencia": "Lobos",
+            "Puntos": 4.0
+          },
+          {
+            "Posicion": 12,
+            "Jugador": "Salleres, Kiara",
+            "Procedencia": "Escobar",
+            "Puntos": 3.5
+          },
+          {
+            "Posicion": 13,
+            "Jugador": "Merialdo, Amador",
+            "Procedencia": "Suipacha",
+            "Puntos": 3.5
+          },
+          {
+            "Posicion": 14,
+            "Jugador": "Parra, Florencia",
+            "Procedencia": "Tigre",
+            "Puntos": 3.5
+          },
+          {
+            "Posicion": 15,
+            "Jugador": "Nunez Montegutti, Valentina",
+            "Procedencia": "Tigre",
+            "Puntos": 3.5
+          },
+          {
+            "Posicion": 16,
+            "Jugador": "Dyriv, Daniel",
+            "Procedencia": "Tigre",
+            "Puntos": 3.0
+          },
+          {
+            "Posicion": 17,
+            "Jugador": "Vargas, Alejandro",
+            "Procedencia": "Escobar",
+            "Puntos": 3.0
+          },
+          {
+            "Posicion": 18,
+            "Jugador": "Benitez, Byron",
+            "Procedencia": "-",
+            "Puntos": 3.0
+          },
+          {
+            "Posicion": 19,
+            "Jugador": "Bonifacio, Franco Gabriel",
+            "Procedencia": "Campana",
+            "Puntos": 2.5
+          },
+          {
+            "Posicion": 20,
+            "Jugador": "Muratorio, Matias",
+            "Procedencia": "Suipacha",
+            "Puntos": 2.5
+          },
+          {
+            "Posicion": 21,
+            "Jugador": "Baez, Braian",
+            "Procedencia": "Tigre",
+            "Puntos": 2.5
+          },
+          {
+            "Posicion": 22,
+            "Jugador": "De Notta, Benjamin",
+            "Procedencia": "Escobar",
+            "Puntos": 2.5
+          },
+          {
+            "Posicion": 23,
+            "Jugador": "Baez, Ezequiel",
+            "Procedencia": "Tigre",
+            "Puntos": 2.5
+          },
+          {
+            "Posicion": 24,
+            "Jugador": "Britez, Tomas",
+            "Procedencia": "-",
+            "Puntos": 2.0
+          },
+          {
+            "Posicion": 25,
+            "Jugador": "Villasrreo, Micaela",
+            "Procedencia": "General Las Heras",
+            "Puntos": 1.5
+          },
+          {
+            "Posicion": 26,
+            "Jugador": "Riquelme Taborda, Tobias Elian",
+            "Procedencia": "Tigre",
+            "Puntos": 0.0
+          }
+        ]
+      },
+      "Fase 2": {
+        "link_chess_results": "#",
+        "resultados": [
+          {
+            "Posicion": 1,
+            "Jugador": "Pesantes, Thiago",
+            "Procedencia": "Marcos Paz",
+            "Puntos": 7.0
+          },
+          {
+            "Posicion": 2,
+            "Jugador": "Pallone, Tatiana",
+            "Procedencia": "General Rodríguez",
+            "Puntos": 6.0
+          },
+          {
+            "Posicion": 3,
+            "Jugador": "Frias, Mateo",
+            "Procedencia": "Presidente Derqui",
+            "Puntos": 5.0
+          },
+          {
+            "Posicion": 4,
+            "Jugador": "Villar, Rodrigo",
+            "Procedencia": "Campana",
+            "Puntos": 5.0
+          },
+          {
+            "Posicion": 5,
+            "Jugador": "Cordoba, Bautista",
+            "Procedencia": "General Rodríguez",
+            "Puntos": 5.0
+          },
+          {
+            "Posicion": 6,
+            "Jugador": "Escaiola, Ian",
+            "Procedencia": "Tigre",
+            "Puntos": 4.5
+          },
+          {
+            "Posicion": 7,
+            "Jugador": "Gonzalez, Felipe Edgardo",
+            "Procedencia": "Escobar",
+            "Puntos": 4.0
+          },
+          {
+            "Posicion": 8,
+            "Jugador": "Merialdo, Amador",
+            "Procedencia": "Suipacha",
+            "Puntos": 4.0
+          },
+          {
+            "Posicion": 9,
+            "Jugador": "Bilo, Bautista",
+            "Procedencia": "Lobos",
+            "Puntos": 4.0
+          },
+          {
+            "Posicion": 10,
+            "Jugador": "Loayza, Ian Gael",
+            "Procedencia": "Tigre",
+            "Puntos": 4.0
+          },
+          {
+            "Posicion": 11,
+            "Jugador": "Nunez Montegutti, Valentina",
+            "Procedencia": "Tigre",
+            "Puntos": 4.0
+          },
+          {
+            "Posicion": 12,
+            "Jugador": "Dyriv, Daniel",
+            "Procedencia": "-",
+            "Puntos": 4.0
+          },
+          {
+            "Posicion": 13,
+            "Jugador": "Gomez, Maiten",
+            "Procedencia": "Escobar",
+            "Puntos": 4.0
+          },
+          {
+            "Posicion": 14,
+            "Jugador": "Martinez, Inaki",
+            "Procedencia": "Lobos",
+            "Puntos": 3.5
+          },
+          {
+            "Posicion": 15,
+            "Jugador": "Salleres, Kiara",
+            "Procedencia": "Escobar",
+            "Puntos": 3.0
+          },
+          {
+            "Posicion": 16,
+            "Jugador": "Acosta, Ivan Agustin",
+            "Procedencia": "Marcos Paz",
+            "Puntos": 3.0
+          },
+          {
+            "Posicion": 17,
+            "Jugador": "Silvetti Cifulella, Francesca",
+            "Procedencia": "Jauregui",
+            "Puntos": 3.0
+          },
+          {
+            "Posicion": 18,
+            "Jugador": "Vargas, Alejandro",
+            "Procedencia": "Escobar",
+            "Puntos": 3.0
+          },
+          {
+            "Posicion": 19,
+            "Jugador": "Parra, Florencia",
+            "Procedencia": "Tigre",
+            "Puntos": 3.0
+          },
+          {
+            "Posicion": 20,
+            "Jugador": "Amarilla, Thiago",
+            "Procedencia": "General Rodríguez",
+            "Puntos": 3.0
+          },
+          {
+            "Posicion": 21,
+            "Jugador": "Montenegro, Juan Mateo",
+            "Procedencia": "Suipacha",
+            "Puntos": 3.0
+          },
+          {
+            "Posicion": 22,
+            "Jugador": "Villasrreo, Micaela",
+            "Procedencia": "General Las Heras",
+            "Puntos": 2.0
+          },
+          {
+            "Posicion": 23,
+            "Jugador": "Muratorio, Matias",
+            "Procedencia": "Suipacha",
+            "Puntos": 2.0
+          },
+          {
+            "Posicion": 24,
+            "Jugador": "Melo, Rodrigo",
+            "Procedencia": "-",
+            "Puntos": 2.0
+          },
+          {
+            "Posicion": 25,
+            "Jugador": "Valle, Fausto",
+            "Procedencia": "Suipacha",
+            "Puntos": 1.0
+          },
+          {
+            "Posicion": 26,
+            "Jugador": "Arriola, Dilan",
+            "Procedencia": "General Rodríguez",
+            "Puntos": 0.0
+          },
+          {
+            "Posicion": 27,
+            "Jugador": "Cruz, Benjamin",
+            "Procedencia": "Pte Derqui",
+            "Puntos": 0.0
+          },
+          {
+            "Posicion": 28,
+            "Jugador": "Franco, Julian De Maria",
+            "Procedencia": "Tigre",
+            "Puntos": 0.0
+          }
+        ]
+      }
+    },
+    "acumulado_puntos": [
+      {
+        "Jugador": "Villar, Rodrigo",
+        "Puntos": 10.5,
+        "Procedencia": "Campana"
+      },
+      {
+        "Jugador": "Cordoba, Bautista",
+        "Puntos": 10.0,
+        "Procedencia": "General Rodríguez"
+      },
+      {
+        "Jugador": "Gonzalez, Felipe Edgardo",
+        "Puntos": 8.5,
+        "Procedencia": "Escobar"
+      },
+      {
+        "Jugador": "Martinez, Inaki",
+        "Puntos": 7.5,
+        "Procedencia": "Lobos"
+      },
+      {
+        "Jugador": "Merialdo, Amador",
+        "Puntos": 7.5,
+        "Procedencia": "Suipacha"
+      },
+      {
+        "Jugador": "Nunez Montegutti, Valentina",
+        "Puntos": 7.5,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Dyriv, Daniel",
+        "Puntos": 7.0,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Pesantes, Thiago",
+        "Puntos": 7.0,
+        "Procedencia": "Marcos Paz"
+      },
+      {
+        "Jugador": "Silvetti Cifulella, Francesca",
+        "Puntos": 7.0,
+        "Procedencia": "Jauregui"
+      },
+      {
+        "Jugador": "Parra, Florencia",
+        "Puntos": 6.5,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Salleres, Kiara",
+        "Puntos": 6.5,
+        "Procedencia": "Escobar"
+      },
+      {
+        "Jugador": "Pallone, Tatiana",
+        "Puntos": 6.0,
+        "Procedencia": "General Rodríguez"
+      },
+      {
+        "Jugador": "Frias Perez, Mateo",
+        "Puntos": 6.0,
+        "Procedencia": "Derqui"
+      },
+      {
+        "Jugador": "Vargas, Alejandro",
+        "Puntos": 6.0,
+        "Procedencia": "Escobar"
+      },
+      {
+        "Jugador": "Amarilla, Eros Benjamin",
+        "Puntos": 5.5,
+        "Procedencia": "General Rodríguez"
+      },
+      {
+        "Jugador": "Frias, Mateo",
+        "Puntos": 5.0,
+        "Procedencia": "Presidente Derqui"
+      },
+      {
+        "Jugador": "Loayza, Ian",
+        "Puntos": 5.0,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Escaiola, Ian",
+        "Puntos": 4.5,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Escaiola Martinez, Ian",
+        "Puntos": 4.5,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Muratorio, Matias",
+        "Puntos": 4.5,
+        "Procedencia": "Suipacha"
+      },
+      {
+        "Jugador": "Gomez, Maiten Xiomara Francisca",
+        "Puntos": 4.0,
+        "Procedencia": "Escobar"
+      },
+      {
+        "Jugador": "Gomez, Maiten",
+        "Puntos": 4.0,
+        "Procedencia": "Escobar"
+      },
+      {
+        "Jugador": "Loayza, Ian Gael",
+        "Puntos": 4.0,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Bilo, Bautista",
+        "Puntos": 4.0,
+        "Procedencia": "Lobos"
+      },
+      {
+        "Jugador": "Acosta, Ivan",
+        "Puntos": 4.0,
+        "Procedencia": "Marcos Paz"
+      },
+      {
+        "Jugador": "Villasrreo, Micaela",
+        "Puntos": 3.5,
+        "Procedencia": "General Las Heras"
+      },
+      {
+        "Jugador": "Amarilla, Thiago",
+        "Puntos": 3.0,
+        "Procedencia": "General Rodríguez"
+      },
+      {
+        "Jugador": "Acosta, Ivan Agustin",
+        "Puntos": 3.0,
+        "Procedencia": "Marcos Paz"
+      },
+      {
+        "Jugador": "Benitez, Byron",
+        "Puntos": 3.0,
+        "Procedencia": "-"
+      },
+      {
+        "Jugador": "Montenegro, Juan Mateo",
+        "Puntos": 3.0,
+        "Procedencia": "Suipacha"
+      },
+      {
+        "Jugador": "Bonifacio, Franco Gabriel",
+        "Puntos": 2.5,
+        "Procedencia": "Campana"
+      },
+      {
+        "Jugador": "Baez, Ezequiel",
+        "Puntos": 2.5,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Baez, Braian",
+        "Puntos": 2.5,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "De Notta, Benjamin",
+        "Puntos": 2.5,
+        "Procedencia": "Escobar"
+      },
+      {
+        "Jugador": "Britez, Tomas",
+        "Puntos": 2.0,
+        "Procedencia": "-"
+      },
+      {
+        "Jugador": "Melo, Rodrigo",
+        "Puntos": 2.0,
+        "Procedencia": "-"
+      },
+      {
+        "Jugador": "Valle, Fausto",
+        "Puntos": 1.0,
+        "Procedencia": "Suipacha"
+      },
+      {
+        "Jugador": "Arriola, Dilan",
+        "Puntos": 0.0,
+        "Procedencia": "General Rodríguez"
+      },
+      {
+        "Jugador": "Cruz, Benjamin",
+        "Puntos": 0.0,
+        "Procedencia": "Pte Derqui"
+      },
+      {
+        "Jugador": "Franco, Julian De Maria",
+        "Puntos": 0.0,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Riquelme Taborda, Tobias Elian",
+        "Puntos": 0.0,
+        "Procedencia": "Tigre"
+      }
+    ],
+    "acumulado_gp": [
+      {
+        "Jugador": "Villar, Rodrigo",
+        "Puntos_GP": 30.0,
+        "Procedencia": "Campana"
+      },
+      {
+        "Jugador": "Frias Perez, Mateo",
+        "Puntos_GP": 25.0,
+        "Procedencia": "Derqui"
+      },
+      {
+        "Jugador": "Pesantes, Thiago",
+        "Puntos_GP": 25.0,
+        "Procedencia": "Marcos Paz"
+      },
+      {
+        "Jugador": "Cordoba, Bautista",
+        "Puntos_GP": 22.0,
+        "Procedencia": "General Rodríguez"
+      },
+      {
+        "Jugador": "Pallone, Tatiana",
+        "Puntos_GP": 18.0,
+        "Procedencia": "General Rodríguez"
+      },
+      {
+        "Jugador": "Frias, Mateo",
+        "Puntos_GP": 15.0,
+        "Procedencia": "Presidente Derqui"
+      },
+      {
+        "Jugador": "Amarilla, Eros Benjamin",
+        "Puntos_GP": 15.0,
+        "Procedencia": "General Rodríguez"
+      },
+      {
+        "Jugador": "Gonzalez, Felipe Edgardo",
+        "Puntos_GP": 14.0,
+        "Procedencia": "Escobar"
+      },
+      {
+        "Jugador": "Loayza, Ian",
+        "Puntos_GP": 10.0,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Escaiola, Ian",
+        "Puntos_GP": 8.0,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Escaiola Martinez, Ian",
+        "Puntos_GP": 6.0,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Merialdo, Amador",
+        "Puntos_GP": 4.0,
+        "Procedencia": "Suipacha"
+      },
+      {
+        "Jugador": "Acosta, Ivan",
+        "Puntos_GP": 4.0,
+        "Procedencia": "Marcos Paz"
+      },
+      {
+        "Jugador": "Bilo, Bautista",
+        "Puntos_GP": 2.0,
+        "Procedencia": "Lobos"
+      },
+      {
+        "Jugador": "Gomez, Maiten Xiomara Francisca",
+        "Puntos_GP": 2.0,
+        "Procedencia": "Escobar"
+      },
+      {
+        "Jugador": "Loayza, Ian Gael",
+        "Puntos_GP": 1.0,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Silvetti Cifulella, Francesca",
+        "Puntos_GP": 1.0,
+        "Procedencia": "Jauregui"
+      },
+      {
+        "Jugador": "Benitez, Byron",
+        "Puntos_GP": 0.0,
+        "Procedencia": "-"
+      },
+      {
+        "Jugador": "Baez, Ezequiel",
+        "Puntos_GP": 0.0,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Baez, Braian",
+        "Puntos_GP": 0.0,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Arriola, Dilan",
+        "Puntos_GP": 0.0,
+        "Procedencia": "General Rodríguez"
+      },
+      {
+        "Jugador": "Acosta, Ivan Agustin",
+        "Puntos_GP": 0.0,
+        "Procedencia": "Marcos Paz"
+      },
+      {
+        "Jugador": "Amarilla, Thiago",
+        "Puntos_GP": 0.0,
+        "Procedencia": "General Rodríguez"
+      },
+      {
+        "Jugador": "Britez, Tomas",
+        "Puntos_GP": 0.0,
+        "Procedencia": "-"
+      },
+      {
+        "Jugador": "De Notta, Benjamin",
+        "Puntos_GP": 0.0,
+        "Procedencia": "Escobar"
+      },
+      {
+        "Jugador": "Franco, Julian De Maria",
+        "Puntos_GP": 0.0,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Gomez, Maiten",
+        "Puntos_GP": 0.0,
+        "Procedencia": "Escobar"
+      },
+      {
+        "Jugador": "Dyriv, Daniel",
+        "Puntos_GP": 0.0,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Bonifacio, Franco Gabriel",
+        "Puntos_GP": 0.0,
+        "Procedencia": "Campana"
+      },
+      {
+        "Jugador": "Cruz, Benjamin",
+        "Puntos_GP": 0.0,
+        "Procedencia": "Pte Derqui"
+      },
+      {
+        "Jugador": "Montenegro, Juan Mateo",
+        "Puntos_GP": 0.0,
+        "Procedencia": "Suipacha"
+      },
+      {
+        "Jugador": "Melo, Rodrigo",
+        "Puntos_GP": 0.0,
+        "Procedencia": "-"
+      },
+      {
+        "Jugador": "Martinez, Inaki",
+        "Puntos_GP": 0.0,
+        "Procedencia": "Lobos"
+      },
+      {
+        "Jugador": "Parra, Florencia",
+        "Puntos_GP": 0.0,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Nunez Montegutti, Valentina",
+        "Puntos_GP": 0.0,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Muratorio, Matias",
+        "Puntos_GP": 0.0,
+        "Procedencia": "Suipacha"
+      },
+      {
+        "Jugador": "Riquelme Taborda, Tobias Elian",
+        "Puntos_GP": 0.0,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Salleres, Kiara",
+        "Puntos_GP": 0.0,
+        "Procedencia": "Escobar"
+      },
+      {
+        "Jugador": "Valle, Fausto",
+        "Puntos_GP": 0.0,
+        "Procedencia": "Suipacha"
+      },
+      {
+        "Jugador": "Vargas, Alejandro",
+        "Puntos_GP": 0.0,
+        "Procedencia": "Escobar"
+      },
+      {
+        "Jugador": "Villasrreo, Micaela",
+        "Puntos_GP": 0.0,
+        "Procedencia": "General Las Heras"
+      }
+    ]
+  },
+  "Sub-12": {
+    "fases": {
+      "Fase 1": {
+        "link_chess_results": "#",
+        "resultados": [
+          {
+            "Posicion": 1,
+            "Jugador": "Di Castelnuovo Rugolotto, Vittorio",
+            "Procedencia": "Tigre",
+            "Puntos": 7.0
+          },
+          {
+            "Posicion": 2,
+            "Jugador": "Gorini, Joaquin",
+            "Procedencia": "Escobar",
+            "Puntos": 6.0
+          },
+          {
+            "Posicion": 3,
+            "Jugador": "Mengucci, Lorenzo",
+            "Procedencia": "Zárate",
+            "Puntos": 5.0
+          },
+          {
+            "Posicion": 4,
+            "Jugador": "Scappatura Delpech, Moreno",
+            "Procedencia": "Luján",
+            "Puntos": 5.0
+          },
+          {
+            "Posicion": 5,
+            "Jugador": "Herrera Ramos, Bruno Luciano",
+            "Procedencia": "Escobar",
+            "Puntos": 5.0
+          },
+          {
+            "Posicion": 6,
+            "Jugador": "Luna, Mateo",
+            "Procedencia": "Pilar",
+            "Puntos": 5.0
+          },
+          {
+            "Posicion": 7,
+            "Jugador": "Abrantes, Thiago",
+            "Procedencia": "-",
+            "Puntos": 4.5
+          },
+          {
+            "Posicion": 8,
+            "Jugador": "Cocarico Choque, David",
+            "Procedencia": "Zárate",
+            "Puntos": 4.5
+          },
+          {
+            "Posicion": 9,
+            "Jugador": "Schimpf, Emanuel",
+            "Procedencia": "Suipacha",
+            "Puntos": 4.5
+          },
+          {
+            "Posicion": 10,
+            "Jugador": "Perez Csernoch, Ulises",
+            "Procedencia": "Luján",
+            "Puntos": 4.0
+          },
+          {
+            "Posicion": 11,
+            "Jugador": "Novais Luna, Bastian Nicolas",
+            "Procedencia": "Tigre",
+            "Puntos": 4.0
+          },
+          {
+            "Posicion": 12,
+            "Jugador": "Martinez, Celso",
+            "Procedencia": "Suipacha",
+            "Puntos": 4.0
+          },
+          {
+            "Posicion": 13,
+            "Jugador": "Martinez, Sara",
+            "Procedencia": "Lobos",
+            "Puntos": 4.0
+          },
+          {
+            "Posicion": 14,
+            "Jugador": "Mujica Alancay, Ignacio",
+            "Procedencia": "Lobos",
+            "Puntos": 4.0
+          },
+          {
+            "Posicion": 15,
+            "Jugador": "Lopez Camelo, Benjamin",
+            "Procedencia": "Suipacha",
+            "Puntos": 4.0
+          },
+          {
+            "Posicion": 16,
+            "Jugador": "Condo Huaquipa, Gael Isai",
+            "Procedencia": "Escobar",
+            "Puntos": 3.5
+          },
+          {
+            "Posicion": 17,
+            "Jugador": "Gelmetti De Leon, Lisandro",
+            "Procedencia": "Campana",
+            "Puntos": 3.5
+          },
+          {
+            "Posicion": 18,
+            "Jugador": "Diaz, Bruno Alejandro",
+            "Procedencia": "Tigre",
+            "Puntos": 3.5
+          },
+          {
+            "Posicion": 19,
+            "Jugador": "Victor, Mia",
+            "Procedencia": "Lobos",
+            "Puntos": 3.0
+          },
+          {
+            "Posicion": 20,
+            "Jugador": "Fernandez, Bautista",
+            "Procedencia": "Tigre",
+            "Puntos": 3.0
+          },
+          {
+            "Posicion": 21,
+            "Jugador": "Naya, Roman",
+            "Procedencia": "Tigre",
+            "Puntos": 3.0
+          },
+          {
+            "Posicion": 22,
+            "Jugador": "Scampini, Santino",
+            "Procedencia": "Tigre",
+            "Puntos": 3.0
+          },
+          {
+            "Posicion": 23,
+            "Jugador": "Villar, Lucas",
+            "Procedencia": "Tigre",
+            "Puntos": 3.0
+          },
+          {
+            "Posicion": 24,
+            "Jugador": "Quintana, Jonas",
+            "Procedencia": "Tigre",
+            "Puntos": 3.0
+          },
+          {
+            "Posicion": 25,
+            "Jugador": "Rosciano, Mateo",
+            "Procedencia": "Lobos",
+            "Puntos": 3.0
+          },
+          {
+            "Posicion": 26,
+            "Jugador": "Quecana, Benjamin",
+            "Procedencia": "Zárate",
+            "Puntos": 2.5
+          },
+          {
+            "Posicion": 27,
+            "Jugador": "Sappietro, Enzo",
+            "Procedencia": "Suipacha",
+            "Puntos": 2.5
+          },
+          {
+            "Posicion": 28,
+            "Jugador": "Cardoso, Ezequias",
+            "Procedencia": "Tigre",
+            "Puntos": 2.5
+          },
+          {
+            "Posicion": 29,
+            "Jugador": "Berisciartua, Ezequiel",
+            "Procedencia": "Tigre",
+            "Puntos": 2.0
+          },
+          {
+            "Posicion": 30,
+            "Jugador": "Zampelunghe, Angel",
+            "Procedencia": "Lobos",
+            "Puntos": 2.0
+          },
+          {
+            "Posicion": 31,
+            "Jugador": "Costa, Francisco Cesar",
+            "Procedencia": "Tigre",
+            "Puntos": 2.0
+          },
+          {
+            "Posicion": 32,
+            "Jugador": "Espinoza, Thiago Gonzalo",
+            "Procedencia": "Escobar",
+            "Puntos": 2.0
+          },
+          {
+            "Posicion": 33,
+            "Jugador": "Ramirez, Roman",
+            "Procedencia": "Tigre",
+            "Puntos": 1.5
+          },
+          {
+            "Posicion": 34,
+            "Jugador": "Fernandez Borda, Arian Agustin",
+            "Procedencia": "Tigre",
+            "Puntos": 0.0
+          }
+        ]
+      },
+      "Fase 2": {
+        "link_chess_results": "#",
+        "resultados": [
+          {
+            "Posicion": 1,
+            "Jugador": "Di Castelnuovo Rugolotto, Vittorio",
+            "Procedencia": "Tigre",
+            "Puntos": 7.0
+          },
+          {
+            "Posicion": 2,
+            "Jugador": "Herrera Ramos, Bruno Luciano",
+            "Procedencia": "Escobar",
+            "Puntos": 5.5
+          },
+          {
+            "Posicion": 3,
+            "Jugador": "Perez Csernoch, Ulises",
+            "Procedencia": "Luján",
+            "Puntos": 5.0
+          },
+          {
+            "Posicion": 4,
+            "Jugador": "Scappatura Deloech, Moreno",
+            "Procedencia": "General Rodríguez",
+            "Puntos": 5.0
+          },
+          {
+            "Posicion": 5,
+            "Jugador": "Martinez, Celso Eloy",
+            "Procedencia": "Suipacha",
+            "Puntos": 4.5
+          },
+          {
+            "Posicion": 6,
+            "Jugador": "Novais Luna, Bastian",
+            "Procedencia": "Tigre",
+            "Puntos": 4.5
+          },
+          {
+            "Posicion": 7,
+            "Jugador": "Luna, Mateo",
+            "Procedencia": "Presidente Derqui",
+            "Puntos": 4.5
+          },
+          {
+            "Posicion": 8,
+            "Jugador": "Abrantes De Jesus, Thiago",
+            "Procedencia": "Marcos Paz",
+            "Puntos": 4.5
+          },
+          {
+            "Posicion": 9,
+            "Jugador": "Mengucci, Lorenzo",
+            "Procedencia": "Zárate",
+            "Puntos": 4.5
+          },
+          {
+            "Posicion": 10,
+            "Jugador": "Martinez, Sara",
+            "Procedencia": "Lobos",
+            "Puntos": 4.5
+          },
+          {
+            "Posicion": 11,
+            "Jugador": "Quecana Leon, Benjamin",
+            "Procedencia": "Zárate",
+            "Puntos": 4.0
+          },
+          {
+            "Posicion": 12,
+            "Jugador": "Condo Huaquipa, Gael Isai",
+            "Procedencia": "Escobar",
+            "Puntos": 4.0
+          },
+          {
+            "Posicion": 13,
+            "Jugador": "Claverie, Guillermo Miguel",
+            "Procedencia": "General Rodríguez",
+            "Puntos": 4.0
+          },
+          {
+            "Posicion": 14,
+            "Jugador": "Ortiz, Stefano",
+            "Procedencia": "Escobar",
+            "Puntos": 4.0
+          },
+          {
+            "Posicion": 15,
+            "Jugador": "Mujica, Alancay",
+            "Procedencia": "Lobos",
+            "Puntos": 3.5
+          },
+          {
+            "Posicion": 16,
+            "Jugador": "Schimpf, Emanuel",
+            "Procedencia": "Suipacha",
+            "Puntos": 3.5
+          },
+          {
+            "Posicion": 17,
+            "Jugador": "Dal Castello, Bautista",
+            "Procedencia": "Tigre",
+            "Puntos": 3.5
+          },
+          {
+            "Posicion": 18,
+            "Jugador": "Dobrovolny, Juliana Catalina",
+            "Procedencia": "Escobar",
+            "Puntos": 3.0
+          },
+          {
+            "Posicion": 19,
+            "Jugador": "Scampini, Santino Valentin",
+            "Procedencia": "Tigre",
+            "Puntos": 3.0
+          },
+          {
+            "Posicion": 20,
+            "Jugador": "Rosciano, Mateo",
+            "Procedencia": "Lobos",
+            "Puntos": 3.0
+          },
+          {
+            "Posicion": 21,
+            "Jugador": "Repetto, Ian",
+            "Procedencia": "Mercedes",
+            "Puntos": 3.0
+          },
+          {
+            "Posicion": 22,
+            "Jugador": "Victor, Mia",
+            "Procedencia": "Lobos",
+            "Puntos": 3.0
+          },
+          {
+            "Posicion": 23,
+            "Jugador": "Zampelunghe, Angel",
+            "Procedencia": "Lobos",
+            "Puntos": 2.5
+          },
+          {
+            "Posicion": 24,
+            "Jugador": "Sappietro, Enzo",
+            "Procedencia": "Suipacha",
+            "Puntos": 2.5
+          },
+          {
+            "Posicion": 25,
+            "Jugador": "Guerra Campos, Salvador",
+            "Procedencia": "Suipacha",
+            "Puntos": 2.0
+          },
+          {
+            "Posicion": 26,
+            "Jugador": "Larranaga Gimenez, Sofia",
+            "Procedencia": "Suipacha",
+            "Puntos": 2.0
+          },
+          {
+            "Posicion": 27,
+            "Jugador": "Marchisio, Leon",
+            "Procedencia": "Tigre",
+            "Puntos": 2.0
+          },
+          {
+            "Posicion": 28,
+            "Jugador": "Caro, Brianna Jeanette",
+            "Procedencia": "Tigre",
+            "Puntos": 1.5
+          },
+          {
+            "Posicion": 29,
+            "Jugador": "Deodato Loperena, Lourdes",
+            "Procedencia": "Tigre",
+            "Puntos": 1.5
+          }
+        ]
+      }
+    },
+    "acumulado_puntos": [
+      {
+        "Jugador": "Di Castelnuovo Rugolotto, Vittorio",
+        "Puntos": 14.0,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Herrera Ramos, Bruno Luciano",
+        "Puntos": 10.5,
+        "Procedencia": "Escobar"
+      },
+      {
+        "Jugador": "Luna, Mateo",
+        "Puntos": 9.5,
+        "Procedencia": "Presidente Derqui"
+      },
+      {
+        "Jugador": "Mengucci, Lorenzo",
+        "Puntos": 9.5,
+        "Procedencia": "Zárate"
+      },
+      {
+        "Jugador": "Perez Csernoch, Ulises",
+        "Puntos": 9.0,
+        "Procedencia": "Luján"
+      },
+      {
+        "Jugador": "Martinez, Sara",
+        "Puntos": 8.5,
+        "Procedencia": "Lobos"
+      },
+      {
+        "Jugador": "Schimpf, Emanuel",
+        "Puntos": 8.0,
+        "Procedencia": "Suipacha"
+      },
+      {
+        "Jugador": "Condo Huaquipa, Gael Isai",
+        "Puntos": 7.5,
+        "Procedencia": "Escobar"
+      },
+      {
+        "Jugador": "Rosciano, Mateo",
+        "Puntos": 6.0,
+        "Procedencia": "Lobos"
+      },
+      {
+        "Jugador": "Victor, Mia",
+        "Puntos": 6.0,
+        "Procedencia": "Lobos"
+      },
+      {
+        "Jugador": "Gorini, Joaquin",
+        "Puntos": 6.0,
+        "Procedencia": "Escobar"
+      },
+      {
+        "Jugador": "Sappietro, Enzo",
+        "Puntos": 5.0,
+        "Procedencia": "Suipacha"
+      },
+      {
+        "Jugador": "Scappatura Deloech, Moreno",
+        "Puntos": 5.0,
+        "Procedencia": "General Rodríguez"
+      },
+      {
+        "Jugador": "Scappatura Delpech, Moreno",
+        "Puntos": 5.0,
+        "Procedencia": "Luján"
+      },
+      {
+        "Jugador": "Abrantes De Jesus, Thiago",
+        "Puntos": 4.5,
+        "Procedencia": "Marcos Paz"
+      },
+      {
+        "Jugador": "Zampelunghe, Angel",
+        "Puntos": 4.5,
+        "Procedencia": "Lobos"
+      },
+      {
+        "Jugador": "Abrantes, Thiago",
+        "Puntos": 4.5,
+        "Procedencia": "-"
+      },
+      {
+        "Jugador": "Cocarico Choque, David",
+        "Puntos": 4.5,
+        "Procedencia": "Zárate"
+      },
+      {
+        "Jugador": "Martinez, Celso Eloy",
+        "Puntos": 4.5,
+        "Procedencia": "Suipacha"
+      },
+      {
+        "Jugador": "Novais Luna, Bastian",
+        "Puntos": 4.5,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Quecana Leon, Benjamin",
+        "Puntos": 4.0,
+        "Procedencia": "Zárate"
+      },
+      {
+        "Jugador": "Novais Luna, Bastian Nicolas",
+        "Puntos": 4.0,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Ortiz, Stefano",
+        "Puntos": 4.0,
+        "Procedencia": "Escobar"
+      },
+      {
+        "Jugador": "Claverie, Guillermo Miguel",
+        "Puntos": 4.0,
+        "Procedencia": "General Rodríguez"
+      },
+      {
+        "Jugador": "Mujica Alancay, Ignacio",
+        "Puntos": 4.0,
+        "Procedencia": "Lobos"
+      },
+      {
+        "Jugador": "Martinez, Celso",
+        "Puntos": 4.0,
+        "Procedencia": "Suipacha"
+      },
+      {
+        "Jugador": "Lopez Camelo, Benjamin",
+        "Puntos": 4.0,
+        "Procedencia": "Suipacha"
+      },
+      {
+        "Jugador": "Mujica, Alancay",
+        "Puntos": 3.5,
+        "Procedencia": "Lobos"
+      },
+      {
+        "Jugador": "Dal Castello, Bautista",
+        "Puntos": 3.5,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Gelmetti De Leon, Lisandro",
+        "Puntos": 3.5,
+        "Procedencia": "Campana"
+      },
+      {
+        "Jugador": "Diaz, Bruno Alejandro",
+        "Puntos": 3.5,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Fernandez, Bautista",
+        "Puntos": 3.0,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Scampini, Santino Valentin",
+        "Puntos": 3.0,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Quintana, Jonas",
+        "Puntos": 3.0,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Dobrovolny, Juliana Catalina",
+        "Puntos": 3.0,
+        "Procedencia": "Escobar"
+      },
+      {
+        "Jugador": "Scampini, Santino",
+        "Puntos": 3.0,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Villar, Lucas",
+        "Puntos": 3.0,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Repetto, Ian",
+        "Puntos": 3.0,
+        "Procedencia": "Mercedes"
+      },
+      {
+        "Jugador": "Naya, Roman",
+        "Puntos": 3.0,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Cardoso, Ezequias",
+        "Puntos": 2.5,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Quecana, Benjamin",
+        "Puntos": 2.5,
+        "Procedencia": "Zárate"
+      },
+      {
+        "Jugador": "Costa, Francisco Cesar",
+        "Puntos": 2.0,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Berisciartua, Ezequiel",
+        "Puntos": 2.0,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Larranaga Gimenez, Sofia",
+        "Puntos": 2.0,
+        "Procedencia": "Suipacha"
+      },
+      {
+        "Jugador": "Guerra Campos, Salvador",
+        "Puntos": 2.0,
+        "Procedencia": "Suipacha"
+      },
+      {
+        "Jugador": "Marchisio, Leon",
+        "Puntos": 2.0,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Espinoza, Thiago Gonzalo",
+        "Puntos": 2.0,
+        "Procedencia": "Escobar"
+      },
+      {
+        "Jugador": "Caro, Brianna Jeanette",
+        "Puntos": 1.5,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Deodato Loperena, Lourdes",
+        "Puntos": 1.5,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Ramirez, Roman",
+        "Puntos": 1.5,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Fernandez Borda, Arian Agustin",
+        "Puntos": 0.0,
+        "Procedencia": "Tigre"
+      }
+    ],
+    "acumulado_gp": [
+      {
+        "Jugador": "Di Castelnuovo Rugolotto, Vittorio",
+        "Puntos_GP": 50.0,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Herrera Ramos, Bruno Luciano",
+        "Puntos_GP": 28.0,
+        "Procedencia": "Escobar"
+      },
+      {
+        "Jugador": "Gorini, Joaquin",
+        "Puntos_GP": 18.0,
+        "Procedencia": "Escobar"
+      },
+      {
+        "Jugador": "Mengucci, Lorenzo",
+        "Puntos_GP": 17.0,
+        "Procedencia": "Zárate"
+      },
+      {
+        "Jugador": "Perez Csernoch, Ulises",
+        "Puntos_GP": 16.0,
+        "Procedencia": "Luján"
+      },
+      {
+        "Jugador": "Luna, Mateo",
+        "Puntos_GP": 14.0,
+        "Procedencia": "Presidente Derqui"
+      },
+      {
+        "Jugador": "Scappatura Delpech, Moreno",
+        "Puntos_GP": 12.0,
+        "Procedencia": "Luján"
+      },
+      {
+        "Jugador": "Scappatura Deloech, Moreno",
+        "Puntos_GP": 12.0,
+        "Procedencia": "General Rodríguez"
+      },
+      {
+        "Jugador": "Martinez, Celso Eloy",
+        "Puntos_GP": 10.0,
+        "Procedencia": "Suipacha"
+      },
+      {
+        "Jugador": "Novais Luna, Bastian",
+        "Puntos_GP": 8.0,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Abrantes, Thiago",
+        "Puntos_GP": 6.0,
+        "Procedencia": "-"
+      },
+      {
+        "Jugador": "Cocarico Choque, David",
+        "Puntos_GP": 4.0,
+        "Procedencia": "Zárate"
+      },
+      {
+        "Jugador": "Abrantes De Jesus, Thiago",
+        "Puntos_GP": 4.0,
+        "Procedencia": "Marcos Paz"
+      },
+      {
+        "Jugador": "Schimpf, Emanuel",
+        "Puntos_GP": 2.0,
+        "Procedencia": "Suipacha"
+      },
+      {
+        "Jugador": "Martinez, Sara",
+        "Puntos_GP": 1.0,
+        "Procedencia": "Lobos"
+      },
+      {
+        "Jugador": "Condo Huaquipa, Gael Isai",
+        "Puntos_GP": 0.0,
+        "Procedencia": "Escobar"
+      },
+      {
+        "Jugador": "Costa, Francisco Cesar",
+        "Puntos_GP": 0.0,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Berisciartua, Ezequiel",
+        "Puntos_GP": 0.0,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Cardoso, Ezequias",
+        "Puntos_GP": 0.0,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Gelmetti De Leon, Lisandro",
+        "Puntos_GP": 0.0,
+        "Procedencia": "Campana"
+      },
+      {
+        "Jugador": "Fernandez, Bautista",
+        "Puntos_GP": 0.0,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Fernandez Borda, Arian Agustin",
+        "Puntos_GP": 0.0,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Espinoza, Thiago Gonzalo",
+        "Puntos_GP": 0.0,
+        "Procedencia": "Escobar"
+      },
+      {
+        "Jugador": "Diaz, Bruno Alejandro",
+        "Puntos_GP": 0.0,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Dobrovolny, Juliana Catalina",
+        "Puntos_GP": 0.0,
+        "Procedencia": "Escobar"
+      },
+      {
+        "Jugador": "Dal Castello, Bautista",
+        "Puntos_GP": 0.0,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Deodato Loperena, Lourdes",
+        "Puntos_GP": 0.0,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Claverie, Guillermo Miguel",
+        "Puntos_GP": 0.0,
+        "Procedencia": "General Rodríguez"
+      },
+      {
+        "Jugador": "Caro, Brianna Jeanette",
+        "Puntos_GP": 0.0,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Larranaga Gimenez, Sofia",
+        "Puntos_GP": 0.0,
+        "Procedencia": "Suipacha"
+      },
+      {
+        "Jugador": "Mujica Alancay, Ignacio",
+        "Puntos_GP": 0.0,
+        "Procedencia": "Lobos"
+      },
+      {
+        "Jugador": "Martinez, Celso",
+        "Puntos_GP": 0.0,
+        "Procedencia": "Suipacha"
+      },
+      {
+        "Jugador": "Marchisio, Leon",
+        "Puntos_GP": 0.0,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Lopez Camelo, Benjamin",
+        "Puntos_GP": 0.0,
+        "Procedencia": "Suipacha"
+      },
+      {
+        "Jugador": "Guerra Campos, Salvador",
+        "Puntos_GP": 0.0,
+        "Procedencia": "Suipacha"
+      },
+      {
+        "Jugador": "Ortiz, Stefano",
+        "Puntos_GP": 0.0,
+        "Procedencia": "Escobar"
+      },
+      {
+        "Jugador": "Novais Luna, Bastian Nicolas",
+        "Puntos_GP": 0.0,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Naya, Roman",
+        "Puntos_GP": 0.0,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Mujica, Alancay",
+        "Puntos_GP": 0.0,
+        "Procedencia": "Lobos"
+      },
+      {
+        "Jugador": "Ramirez, Roman",
+        "Puntos_GP": 0.0,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Quecana Leon, Benjamin",
+        "Puntos_GP": 0.0,
+        "Procedencia": "Zárate"
+      },
+      {
+        "Jugador": "Quecana, Benjamin",
+        "Puntos_GP": 0.0,
+        "Procedencia": "Zárate"
+      },
+      {
+        "Jugador": "Quintana, Jonas",
+        "Puntos_GP": 0.0,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Sappietro, Enzo",
+        "Puntos_GP": 0.0,
+        "Procedencia": "Suipacha"
+      },
+      {
+        "Jugador": "Rosciano, Mateo",
+        "Puntos_GP": 0.0,
+        "Procedencia": "Lobos"
+      },
+      {
+        "Jugador": "Repetto, Ian",
+        "Puntos_GP": 0.0,
+        "Procedencia": "Mercedes"
+      },
+      {
+        "Jugador": "Scampini, Santino Valentin",
+        "Puntos_GP": 0.0,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Scampini, Santino",
+        "Puntos_GP": 0.0,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Victor, Mia",
+        "Puntos_GP": 0.0,
+        "Procedencia": "Lobos"
+      },
+      {
+        "Jugador": "Villar, Lucas",
+        "Puntos_GP": 0.0,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Zampelunghe, Angel",
+        "Puntos_GP": 0.0,
+        "Procedencia": "Lobos"
+      }
+    ]
+  },
+  "Libres": {
+    "fases": {
+      "Fase 1": {
+        "link_chess_results": "#",
+        "resultados": [
+          {
+            "Posicion": 1,
+            "Jugador": "Moldovan, Adrian Matias",
+            "Procedencia": "Tigre",
+            "Puntos": 6.0
+          },
+          {
+            "Posicion": 2,
+            "Jugador": "Ferrara, Enzo",
+            "Procedencia": "Tigre",
+            "Puntos": 6.0
+          },
+          {
+            "Posicion": 3,
+            "Jugador": "Amato, Leonel",
+            "Procedencia": "Tigre",
+            "Puntos": 6.0
+          },
+          {
+            "Posicion": 4,
+            "Jugador": "Basso, Leonardo",
+            "Procedencia": "Tigre",
+            "Puntos": 5.5
+          },
+          {
+            "Posicion": 5,
+            "Jugador": "Easdale, Alan",
+            "Procedencia": "Tigre",
+            "Puntos": 5.0
+          },
+          {
+            "Posicion": 6,
+            "Jugador": "Gomez Padula, Emanuel",
+            "Procedencia": "Mercedes",
+            "Puntos": 5.0
+          },
+          {
+            "Posicion": 7,
+            "Jugador": "Zarate, Cristian",
+            "Procedencia": "Pte Derqui",
+            "Puntos": 5.0
+          },
+          {
+            "Posicion": 8,
+            "Jugador": "Berterreigts, Thiago",
+            "Procedencia": "Tigre",
+            "Puntos": 5.0
+          },
+          {
+            "Posicion": 9,
+            "Jugador": "Anigstein, Eugenio",
+            "Procedencia": "General Rodríguez",
+            "Puntos": 5.0
+          },
+          {
+            "Posicion": 10,
+            "Jugador": "Pousa, Federico",
+            "Procedencia": "Escobar",
+            "Puntos": 5.0
+          },
+          {
+            "Posicion": 11,
+            "Jugador": "Pineda, Thiago",
+            "Procedencia": "Escobar",
+            "Puntos": 5.0
+          },
+          {
+            "Posicion": 12,
+            "Jugador": "Martinez, Facundo",
+            "Procedencia": "Escobar",
+            "Puntos": 5.0
+          },
+          {
+            "Posicion": 13,
+            "Jugador": "Stutz, Leon",
+            "Procedencia": "Tigre",
+            "Puntos": 4.5
+          },
+          {
+            "Posicion": 14,
+            "Jugador": "Gonzalez, Nazareno",
+            "Procedencia": "Escobar",
+            "Puntos": 4.5
+          },
+          {
+            "Posicion": 15,
+            "Jugador": "Olivera Sacchi, Guadalupe",
+            "Procedencia": "General Rodríguez",
+            "Puntos": 4.5
+          },
+          {
+            "Posicion": 16,
+            "Jugador": "Staravijosky, Guillermo",
+            "Procedencia": "General Rodríguez",
+            "Puntos": 4.5
+          },
+          {
+            "Posicion": 17,
+            "Jugador": "Umpierre, Enzo",
+            "Procedencia": "Lobos",
+            "Puntos": 4.5
+          },
+          {
+            "Posicion": 18,
+            "Jugador": "Molina Salazar, Facundo",
+            "Procedencia": "-",
+            "Puntos": 4.0
+          },
+          {
+            "Posicion": 19,
+            "Jugador": "Galeano, Mayte",
+            "Procedencia": "Tigre",
+            "Puntos": 4.0
+          },
+          {
+            "Posicion": 20,
+            "Jugador": "Indo, Juan",
+            "Procedencia": "Escobar",
+            "Puntos": 4.0
+          },
+          {
+            "Posicion": 21,
+            "Jugador": "Shon, Mariano",
+            "Procedencia": "Campana",
+            "Puntos": 4.0
+          },
+          {
+            "Posicion": 22,
+            "Jugador": "Ernst, Marcelo",
+            "Procedencia": "Escobar",
+            "Puntos": 4.0
+          },
+          {
+            "Posicion": 23,
+            "Jugador": "Rojas, Ismael",
+            "Procedencia": "-",
+            "Puntos": 4.0
+          },
+          {
+            "Posicion": 24,
+            "Jugador": "Ramirez, Melanie",
+            "Procedencia": "Tigre",
+            "Puntos": 4.0
+          },
+          {
+            "Posicion": 25,
+            "Jugador": "Anud, Adrian",
+            "Procedencia": "Tigre",
+            "Puntos": 4.0
+          },
+          {
+            "Posicion": 26,
+            "Jugador": "Ayala Cano, Martin",
+            "Procedencia": "Tigre",
+            "Puntos": 4.0
+          },
+          {
+            "Posicion": 27,
+            "Jugador": "Guerrero, Julio Fabian",
+            "Procedencia": "General Las Heras",
+            "Puntos": 4.0
+          },
+          {
+            "Posicion": 28,
+            "Jugador": "Jose Andres, Soto Siles",
+            "Procedencia": "General Rodríguez",
+            "Puntos": 3.5
+          },
+          {
+            "Posicion": 29,
+            "Jugador": "Barroso, Oscar Alberto",
+            "Procedencia": "General Rodríguez",
+            "Puntos": 3.5
+          },
+          {
+            "Posicion": 30,
+            "Jugador": "Coppari, Emiliano",
+            "Procedencia": "Lobos",
+            "Puntos": 3.5
+          },
+          {
+            "Posicion": 31,
+            "Jugador": "Frias, Leandro",
+            "Procedencia": "General Rodríguez",
+            "Puntos": 3.5
+          },
+          {
+            "Posicion": 32,
+            "Jugador": "Decipio, Jeremias",
+            "Procedencia": "Escobar",
+            "Puntos": 3.5
+          },
+          {
+            "Posicion": 33,
+            "Jugador": "Rojas, Samuel",
+            "Procedencia": "-",
+            "Puntos": 3.5
+          },
+          {
+            "Posicion": 34,
+            "Jugador": "Alvarez, Mia Morena",
+            "Procedencia": "Tigre",
+            "Puntos": 3.0
+          },
+          {
+            "Posicion": 35,
+            "Jugador": "Garcia, Manuel Nicolas",
+            "Procedencia": "San Miguel",
+            "Puntos": 3.0
+          },
+          {
+            "Posicion": 36,
+            "Jugador": "Caceres, Diego",
+            "Procedencia": "Tigre",
+            "Puntos": 3.0
+          },
+          {
+            "Posicion": 37,
+            "Jugador": "Galeano Ortiz, Angel Gaston",
+            "Procedencia": "Tigre",
+            "Puntos": 3.0
+          },
+          {
+            "Posicion": 38,
+            "Jugador": "Aquino, Junior",
+            "Procedencia": "General Rodríguez",
+            "Puntos": 3.0
+          },
+          {
+            "Posicion": 39,
+            "Jugador": "Cisnero, Maria Luana",
+            "Procedencia": "Tigre",
+            "Puntos": 3.0
+          },
+          {
+            "Posicion": 40,
+            "Jugador": "Oharriz, Joaquin",
+            "Procedencia": "Lobos",
+            "Puntos": 3.0
+          },
+          {
+            "Posicion": 41,
+            "Jugador": "Pereira, Jorge David",
+            "Procedencia": "Tigre",
+            "Puntos": 3.0
+          },
+          {
+            "Posicion": 42,
+            "Jugador": "Suarez, Alejandro Gabriel",
+            "Procedencia": "Tigre",
+            "Puntos": 3.0
+          },
+          {
+            "Posicion": 43,
+            "Jugador": "Magge, Nicolas Gabriel",
+            "Procedencia": "San Miguel",
+            "Puntos": 3.0
+          },
+          {
+            "Posicion": 44,
+            "Jugador": "Lordi, Fausto",
+            "Procedencia": "General Rodríguez",
+            "Puntos": 3.0
+          },
+          {
+            "Posicion": 45,
+            "Jugador": "Lazzaro, Gaston",
+            "Procedencia": "Tigre",
+            "Puntos": 2.5
+          },
+          {
+            "Posicion": 46,
+            "Jugador": "Lanzos, Ernesto",
+            "Procedencia": "Tigre",
+            "Puntos": 2.5
+          },
+          {
+            "Posicion": 47,
+            "Jugador": "Bourre, Paz",
+            "Procedencia": "Tigre",
+            "Puntos": 2.5
+          },
+          {
+            "Posicion": 48,
+            "Jugador": "Villasrreo, Esteban Sebastian",
+            "Procedencia": "General Las Heras",
+            "Puntos": 2.5
+          },
+          {
+            "Posicion": 49,
+            "Jugador": "Rivas, Claudio",
+            "Procedencia": "Escobar",
+            "Puntos": 2.0
+          },
+          {
+            "Posicion": 50,
+            "Jugador": "Rojas, Sara",
+            "Procedencia": "-",
+            "Puntos": 2.0
+          },
+          {
+            "Posicion": 51,
+            "Jugador": "Della Vedova, Victor",
+            "Procedencia": "General Rodríguez",
+            "Puntos": 2.0
+          },
+          {
+            "Posicion": 52,
+            "Jugador": "Ocampo, Maximo Elias",
+            "Procedencia": "Tigre",
+            "Puntos": 2.0
+          },
+          {
+            "Posicion": 53,
+            "Jugador": "Viva, Melanie Soledad",
+            "Procedencia": "Tigre",
+            "Puntos": 2.0
+          },
+          {
+            "Posicion": 54,
+            "Jugador": "Villar, Javier",
+            "Procedencia": "Campana",
+            "Puntos": 2.0
+          },
+          {
+            "Posicion": 55,
+            "Jugador": "Diaz, Jorge",
+            "Procedencia": "-",
+            "Puntos": 2.0
+          },
+          {
+            "Posicion": 56,
+            "Jugador": "Scriffignano, Lautaro Daniel",
+            "Procedencia": "General Rodríguez",
+            "Puntos": 2.0
+          },
+          {
+            "Posicion": 57,
+            "Jugador": "Martinez, Cristian",
+            "Procedencia": "-",
+            "Puntos": 2.0
+          },
+          {
+            "Posicion": 58,
+            "Jugador": "Pentray, Oscar",
+            "Procedencia": "Lobos",
+            "Puntos": 1.0
+          },
+          {
+            "Posicion": 59,
+            "Jugador": "Lopez, Jonathan",
+            "Procedencia": "Tigre",
+            "Puntos": 1.0
+          }
+        ]
+      },
+      "Fase 2": {
+        "link_chess_results": "#",
+        "resultados": [
+          {
+            "Posicion": 1,
+            "Jugador": "Amato, Leonel",
+            "Procedencia": "Tigre",
+            "Puntos": 6.5
+          },
+          {
+            "Posicion": 2,
+            "Jugador": "Moldovan, Adrian Matias",
+            "Procedencia": "Tigre",
+            "Puntos": 6.0
+          },
+          {
+            "Posicion": 3,
+            "Jugador": "Molina Salazar, Facundo",
+            "Procedencia": "Escobar",
+            "Puntos": 6.0
+          },
+          {
+            "Posicion": 4,
+            "Jugador": "Gomez Padula, Emanuel",
+            "Procedencia": "Mercedes",
+            "Puntos": 5.0
+          },
+          {
+            "Posicion": 5,
+            "Jugador": "Pousa, Federico",
+            "Procedencia": "Escobar",
+            "Puntos": 5.0
+          },
+          {
+            "Posicion": 6,
+            "Jugador": "Pineda, Thiago",
+            "Procedencia": "Escobar",
+            "Puntos": 5.0
+          },
+          {
+            "Posicion": 7,
+            "Jugador": "Zarate, Cristian",
+            "Procedencia": "Derqui",
+            "Puntos": 5.0
+          },
+          {
+            "Posicion": 8,
+            "Jugador": "Gioscio Iribarne, Jorge Gabriel",
+            "Procedencia": "Mercedes",
+            "Puntos": 5.0
+          },
+          {
+            "Posicion": 9,
+            "Jugador": "Gonzalez, Nazareno",
+            "Procedencia": "Escobar",
+            "Puntos": 5.0
+          },
+          {
+            "Posicion": 10,
+            "Jugador": "Ferzzola, Tobias",
+            "Procedencia": "Lobos",
+            "Puntos": 5.0
+          },
+          {
+            "Posicion": 11,
+            "Jugador": "Chavez, Julio",
+            "Procedencia": "-",
+            "Puntos": 5.0
+          },
+          {
+            "Posicion": 12,
+            "Jugador": "D'Onofrio, Jose",
+            "Procedencia": "Suipacha",
+            "Puntos": 5.0
+          },
+          {
+            "Posicion": 13,
+            "Jugador": "Oharriz, Joaquin",
+            "Procedencia": "Lobos",
+            "Puntos": 4.5
+          },
+          {
+            "Posicion": 14,
+            "Jugador": "Easdale, Alan",
+            "Procedencia": "Tigre",
+            "Puntos": 4.5
+          },
+          {
+            "Posicion": 15,
+            "Jugador": "Corindo, Lautaro",
+            "Procedencia": "Marcos Paz",
+            "Puntos": 4.5
+          },
+          {
+            "Posicion": 16,
+            "Jugador": "Amarilla, Abril",
+            "Procedencia": "General Rodríguez",
+            "Puntos": 4.0
+          },
+          {
+            "Posicion": 17,
+            "Jugador": "Montaldo, Ivan",
+            "Procedencia": "Luján",
+            "Puntos": 4.0
+          },
+          {
+            "Posicion": 18,
+            "Jugador": "Chavez, Jorge",
+            "Procedencia": "-",
+            "Puntos": 4.0
+          },
+          {
+            "Posicion": 19,
+            "Jugador": "Cisnero, Luana",
+            "Procedencia": "Tigre",
+            "Puntos": 4.0
+          },
+          {
+            "Posicion": 20,
+            "Jugador": "Umpierre, Enzo",
+            "Procedencia": "Lobos",
+            "Puntos": 4.0
+          },
+          {
+            "Posicion": 21,
+            "Jugador": "Lanzos, Ernesto",
+            "Procedencia": "Tigre",
+            "Puntos": 4.0
+          },
+          {
+            "Posicion": 22,
+            "Jugador": "Villasrreo, Esteban Sebastian",
+            "Procedencia": "General Las Heras",
+            "Puntos": 4.0
+          },
+          {
+            "Posicion": 23,
+            "Jugador": "Fernandez Llorente, Javier",
+            "Procedencia": "Bragado",
+            "Puntos": 4.0
+          },
+          {
+            "Posicion": 24,
+            "Jugador": "Morales, Pedro Jorge",
+            "Procedencia": "Escobar",
+            "Puntos": 4.0
+          },
+          {
+            "Posicion": 25,
+            "Jugador": "Coppari, Emiliano",
+            "Procedencia": "Lobos",
+            "Puntos": 4.0
+          },
+          {
+            "Posicion": 26,
+            "Jugador": "Fernandez Rivero, Juan Rodrigo",
+            "Procedencia": "General Rodríguez",
+            "Puntos": 3.5
+          },
+          {
+            "Posicion": 27,
+            "Jugador": "Veron, Kevin",
+            "Procedencia": "Marcos Paz",
+            "Puntos": 3.5
+          },
+          {
+            "Posicion": 28,
+            "Jugador": "Suarez, Alejandro Gabriel",
+            "Procedencia": "Tigre",
+            "Puntos": 3.5
+          },
+          {
+            "Posicion": 29,
+            "Jugador": "Guerrero, Julio Fabian",
+            "Procedencia": "General Las Heras",
+            "Puntos": 3.5
+          },
+          {
+            "Posicion": 30,
+            "Jugador": "Galeano, Mayte",
+            "Procedencia": "Tigre",
+            "Puntos": 3.0
+          },
+          {
+            "Posicion": 31,
+            "Jugador": "Della Vedova, Victor",
+            "Procedencia": "-",
+            "Puntos": 3.0
+          },
+          {
+            "Posicion": 32,
+            "Jugador": "Scardella, Daniela",
+            "Procedencia": "Suipacha",
+            "Puntos": 3.0
+          },
+          {
+            "Posicion": 33,
+            "Jugador": "Rubiolo, Ernesto",
+            "Procedencia": "-",
+            "Puntos": 3.0
+          },
+          {
+            "Posicion": 34,
+            "Jugador": "Harasimowicz, Sebastian",
+            "Procedencia": "General Rodríguez",
+            "Puntos": 3.0
+          },
+          {
+            "Posicion": 35,
+            "Jugador": "Scriffignano, Lautaro Daniel",
+            "Procedencia": "General Rodríguez",
+            "Puntos": 3.0
+          },
+          {
+            "Posicion": 36,
+            "Jugador": "Garcia, Nicolas",
+            "Procedencia": "Mercedes",
+            "Puntos": 3.0
+          },
+          {
+            "Posicion": 37,
+            "Jugador": "Barroso, Oscar Alberto",
+            "Procedencia": "General Rodríguez",
+            "Puntos": 3.0
+          },
+          {
+            "Posicion": 38,
+            "Jugador": "Ditz, Dion",
+            "Procedencia": "Escobar",
+            "Puntos": 3.0
+          },
+          {
+            "Posicion": 39,
+            "Jugador": "Fuentes, Federico",
+            "Procedencia": "General Rodríguez",
+            "Puntos": 3.0
+          },
+          {
+            "Posicion": 40,
+            "Jugador": "Calegari, Alexis",
+            "Procedencia": "General Rodríguez",
+            "Puntos": 2.5
+          },
+          {
+            "Posicion": 41,
+            "Jugador": "Pentray, Oscar",
+            "Procedencia": "Lobos",
+            "Puntos": 2.5
+          },
+          {
+            "Posicion": 42,
+            "Jugador": "Alonso, Javier",
+            "Procedencia": "Suipacha",
+            "Puntos": 2.5
+          },
+          {
+            "Posicion": 43,
+            "Jugador": "Ledesma, Guillermo",
+            "Procedencia": "General Rodríguez",
+            "Puntos": 2.5
+          },
+          {
+            "Posicion": 44,
+            "Jugador": "Orsini, Nicolas",
+            "Procedencia": "Tigre",
+            "Puntos": 2.0
+          },
+          {
+            "Posicion": 45,
+            "Jugador": "Villar, Javier",
+            "Procedencia": "-",
+            "Puntos": 2.0
+          },
+          {
+            "Posicion": 46,
+            "Jugador": "Merlini, Alejo",
+            "Procedencia": "Mercedes",
+            "Puntos": 2.0
+          },
+          {
+            "Posicion": 47,
+            "Jugador": "Pereira, Jorge Daviv",
+            "Procedencia": "Tigre",
+            "Puntos": 2.0
+          },
+          {
+            "Posicion": 48,
+            "Jugador": "Bisquerra, Lautaro",
+            "Procedencia": "Bragado",
+            "Puntos": 2.0
+          },
+          {
+            "Posicion": 49,
+            "Jugador": "Hidalgo, Ingrid Geraldine",
+            "Procedencia": "Tigre",
+            "Puntos": 2.0
+          },
+          {
+            "Posicion": 50,
+            "Jugador": "Suarez, Noelia Irani",
+            "Procedencia": "General Rodríguez",
+            "Puntos": 1.0
+          },
+          {
+            "Posicion": 51,
+            "Jugador": "Martinez, Omar Christian",
+            "Procedencia": "Marcos Paz",
+            "Puntos": 1.0
+          },
+          {
+            "Posicion": 52,
+            "Jugador": "Capria, Fernando",
+            "Procedencia": "General Las Heras",
+            "Puntos": 0.0
+          },
+          {
+            "Posicion": 53,
+            "Jugador": "Guerrero, Owen",
+            "Procedencia": "General Rodríguez",
+            "Puntos": 0.0
+          },
+          {
+            "Posicion": 54,
+            "Jugador": "Luna, Daiana Elizabeth",
+            "Procedencia": "Tigre",
+            "Puntos": 0.0
+          },
+          {
+            "Posicion": 55,
+            "Jugador": "Medina, Braian Bernabe",
+            "Procedencia": "Tigre",
+            "Puntos": 0.0
+          },
+          {
+            "Posicion": 56,
+            "Jugador": "Sosa, Pablo",
+            "Procedencia": "Suipacha",
+            "Puntos": 0.0
+          },
+          {
+            "Posicion": 57,
+            "Jugador": "Velazquez, Yair",
+            "Procedencia": "Tigre",
+            "Puntos": 0.0
+          },
+          {
+            "Posicion": 58,
+            "Jugador": "Sanz, Ezequiel David",
+            "Procedencia": "Mercedes",
+            "Puntos": 0.0
+          }
+        ]
+      }
+    },
+    "acumulado_puntos": [
+      {
+        "Jugador": "Amato, Leonel",
+        "Puntos": 12.5,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Moldovan, Adrian Matias",
+        "Puntos": 12.0,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Zarate, Cristian",
+        "Puntos": 10.0,
+        "Procedencia": "Derqui"
+      },
+      {
+        "Jugador": "Pousa, Federico",
+        "Puntos": 10.0,
+        "Procedencia": "Escobar"
+      },
+      {
+        "Jugador": "Molina Salazar, Facundo",
+        "Puntos": 10.0,
+        "Procedencia": "Escobar"
+      },
+      {
+        "Jugador": "Gomez Padula, Emanuel",
+        "Puntos": 10.0,
+        "Procedencia": "Mercedes"
+      },
+      {
+        "Jugador": "Pineda, Thiago",
+        "Puntos": 10.0,
+        "Procedencia": "Escobar"
+      },
+      {
+        "Jugador": "Easdale, Alan",
+        "Puntos": 9.5,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Gonzalez, Nazareno",
+        "Puntos": 9.5,
+        "Procedencia": "Escobar"
+      },
+      {
+        "Jugador": "Umpierre, Enzo",
+        "Puntos": 8.5,
+        "Procedencia": "Lobos"
+      },
+      {
+        "Jugador": "Coppari, Emiliano",
+        "Puntos": 7.5,
+        "Procedencia": "Lobos"
+      },
+      {
+        "Jugador": "Oharriz, Joaquin",
+        "Puntos": 7.5,
+        "Procedencia": "Lobos"
+      },
+      {
+        "Jugador": "Guerrero, Julio Fabian",
+        "Puntos": 7.5,
+        "Procedencia": "General Las Heras"
+      },
+      {
+        "Jugador": "Galeano, Mayte",
+        "Puntos": 7.0,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Barroso, Oscar Alberto",
+        "Puntos": 6.5,
+        "Procedencia": "General Rodríguez"
+      },
+      {
+        "Jugador": "Suarez, Alejandro Gabriel",
+        "Puntos": 6.5,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Lanzos, Ernesto",
+        "Puntos": 6.5,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Villasrreo, Esteban Sebastian",
+        "Puntos": 6.5,
+        "Procedencia": "General Las Heras"
+      },
+      {
+        "Jugador": "Ferrara, Enzo",
+        "Puntos": 6.0,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Basso, Leonardo",
+        "Puntos": 5.5,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Martinez, Facundo",
+        "Puntos": 5.0,
+        "Procedencia": "Escobar"
+      },
+      {
+        "Jugador": "Anigstein, Eugenio",
+        "Puntos": 5.0,
+        "Procedencia": "General Rodríguez"
+      },
+      {
+        "Jugador": "Berterreigts, Thiago",
+        "Puntos": 5.0,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Chavez, Julio",
+        "Puntos": 5.0,
+        "Procedencia": "-"
+      },
+      {
+        "Jugador": "D'Onofrio, Jose",
+        "Puntos": 5.0,
+        "Procedencia": "Suipacha"
+      },
+      {
+        "Jugador": "Della Vedova, Victor",
+        "Puntos": 5.0,
+        "Procedencia": "General Rodríguez"
+      },
+      {
+        "Jugador": "Scriffignano, Lautaro Daniel",
+        "Puntos": 5.0,
+        "Procedencia": "General Rodríguez"
+      },
+      {
+        "Jugador": "Gioscio Iribarne, Jorge Gabriel",
+        "Puntos": 5.0,
+        "Procedencia": "Mercedes"
+      },
+      {
+        "Jugador": "Ferzzola, Tobias",
+        "Puntos": 5.0,
+        "Procedencia": "Lobos"
+      },
+      {
+        "Jugador": "Staravijosky, Guillermo",
+        "Puntos": 4.5,
+        "Procedencia": "General Rodríguez"
+      },
+      {
+        "Jugador": "Corindo, Lautaro",
+        "Puntos": 4.5,
+        "Procedencia": "Marcos Paz"
+      },
+      {
+        "Jugador": "Stutz, Leon",
+        "Puntos": 4.5,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Olivera Sacchi, Guadalupe",
+        "Puntos": 4.5,
+        "Procedencia": "General Rodríguez"
+      },
+      {
+        "Jugador": "Chavez, Jorge",
+        "Puntos": 4.0,
+        "Procedencia": "-"
+      },
+      {
+        "Jugador": "Ayala Cano, Martin",
+        "Puntos": 4.0,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Amarilla, Abril",
+        "Puntos": 4.0,
+        "Procedencia": "General Rodríguez"
+      },
+      {
+        "Jugador": "Anud, Adrian",
+        "Puntos": 4.0,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Shon, Mariano",
+        "Puntos": 4.0,
+        "Procedencia": "Campana"
+      },
+      {
+        "Jugador": "Rojas, Ismael",
+        "Puntos": 4.0,
+        "Procedencia": "-"
+      },
+      {
+        "Jugador": "Villar, Javier",
+        "Puntos": 4.0,
+        "Procedencia": "Campana"
+      },
+      {
+        "Jugador": "Morales, Pedro Jorge",
+        "Puntos": 4.0,
+        "Procedencia": "Escobar"
+      },
+      {
+        "Jugador": "Ramirez, Melanie",
+        "Puntos": 4.0,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Montaldo, Ivan",
+        "Puntos": 4.0,
+        "Procedencia": "Luján"
+      },
+      {
+        "Jugador": "Indo, Juan",
+        "Puntos": 4.0,
+        "Procedencia": "Escobar"
+      },
+      {
+        "Jugador": "Cisnero, Luana",
+        "Puntos": 4.0,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Fernandez Llorente, Javier",
+        "Puntos": 4.0,
+        "Procedencia": "Bragado"
+      },
+      {
+        "Jugador": "Ernst, Marcelo",
+        "Puntos": 4.0,
+        "Procedencia": "Escobar"
+      },
+      {
+        "Jugador": "Rojas, Samuel",
+        "Puntos": 3.5,
+        "Procedencia": "-"
+      },
+      {
+        "Jugador": "Veron, Kevin",
+        "Puntos": 3.5,
+        "Procedencia": "Marcos Paz"
+      },
+      {
+        "Jugador": "Jose Andres, Soto Siles",
+        "Puntos": 3.5,
+        "Procedencia": "General Rodríguez"
+      },
+      {
+        "Jugador": "Fernandez Rivero, Juan Rodrigo",
+        "Puntos": 3.5,
+        "Procedencia": "General Rodríguez"
+      },
+      {
+        "Jugador": "Decipio, Jeremias",
+        "Puntos": 3.5,
+        "Procedencia": "Escobar"
+      },
+      {
+        "Jugador": "Frias, Leandro",
+        "Puntos": 3.5,
+        "Procedencia": "General Rodríguez"
+      },
+      {
+        "Jugador": "Pentray, Oscar",
+        "Puntos": 3.5,
+        "Procedencia": "Lobos"
+      },
+      {
+        "Jugador": "Garcia, Manuel Nicolas",
+        "Puntos": 3.0,
+        "Procedencia": "San Miguel"
+      },
+      {
+        "Jugador": "Alvarez, Mia Morena",
+        "Puntos": 3.0,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Caceres, Diego",
+        "Puntos": 3.0,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Aquino, Junior",
+        "Puntos": 3.0,
+        "Procedencia": "General Rodríguez"
+      },
+      {
+        "Jugador": "Scardella, Daniela",
+        "Puntos": 3.0,
+        "Procedencia": "Suipacha"
+      },
+      {
+        "Jugador": "Rubiolo, Ernesto",
+        "Puntos": 3.0,
+        "Procedencia": "-"
+      },
+      {
+        "Jugador": "Pereira, Jorge David",
+        "Puntos": 3.0,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Cisnero, Maria Luana",
+        "Puntos": 3.0,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Ditz, Dion",
+        "Puntos": 3.0,
+        "Procedencia": "Escobar"
+      },
+      {
+        "Jugador": "Garcia, Nicolas",
+        "Puntos": 3.0,
+        "Procedencia": "Mercedes"
+      },
+      {
+        "Jugador": "Harasimowicz, Sebastian",
+        "Puntos": 3.0,
+        "Procedencia": "General Rodríguez"
+      },
+      {
+        "Jugador": "Lordi, Fausto",
+        "Puntos": 3.0,
+        "Procedencia": "General Rodríguez"
+      },
+      {
+        "Jugador": "Magge, Nicolas Gabriel",
+        "Puntos": 3.0,
+        "Procedencia": "San Miguel"
+      },
+      {
+        "Jugador": "Galeano Ortiz, Angel Gaston",
+        "Puntos": 3.0,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Fuentes, Federico",
+        "Puntos": 3.0,
+        "Procedencia": "General Rodríguez"
+      },
+      {
+        "Jugador": "Alonso, Javier",
+        "Puntos": 2.5,
+        "Procedencia": "Suipacha"
+      },
+      {
+        "Jugador": "Bourre, Paz",
+        "Puntos": 2.5,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Ledesma, Guillermo",
+        "Puntos": 2.5,
+        "Procedencia": "General Rodríguez"
+      },
+      {
+        "Jugador": "Lazzaro, Gaston",
+        "Puntos": 2.5,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Calegari, Alexis",
+        "Puntos": 2.5,
+        "Procedencia": "General Rodríguez"
+      },
+      {
+        "Jugador": "Bisquerra, Lautaro",
+        "Puntos": 2.0,
+        "Procedencia": "Bragado"
+      },
+      {
+        "Jugador": "Rojas, Sara",
+        "Puntos": 2.0,
+        "Procedencia": "-"
+      },
+      {
+        "Jugador": "Diaz, Jorge",
+        "Puntos": 2.0,
+        "Procedencia": "-"
+      },
+      {
+        "Jugador": "Hidalgo, Ingrid Geraldine",
+        "Puntos": 2.0,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Martinez, Cristian",
+        "Puntos": 2.0,
+        "Procedencia": "-"
+      },
+      {
+        "Jugador": "Ocampo, Maximo Elias",
+        "Puntos": 2.0,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Rivas, Claudio",
+        "Puntos": 2.0,
+        "Procedencia": "Escobar"
+      },
+      {
+        "Jugador": "Orsini, Nicolas",
+        "Puntos": 2.0,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Viva, Melanie Soledad",
+        "Puntos": 2.0,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Pereira, Jorge Daviv",
+        "Puntos": 2.0,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Merlini, Alejo",
+        "Puntos": 2.0,
+        "Procedencia": "Mercedes"
+      },
+      {
+        "Jugador": "Suarez, Noelia Irani",
+        "Puntos": 1.0,
+        "Procedencia": "General Rodríguez"
+      },
+      {
+        "Jugador": "Martinez, Omar Christian",
+        "Puntos": 1.0,
+        "Procedencia": "Marcos Paz"
+      },
+      {
+        "Jugador": "Lopez, Jonathan",
+        "Puntos": 1.0,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Capria, Fernando",
+        "Puntos": 0.0,
+        "Procedencia": "General Las Heras"
+      },
+      {
+        "Jugador": "Guerrero, Owen",
+        "Puntos": 0.0,
+        "Procedencia": "General Rodríguez"
+      },
+      {
+        "Jugador": "Luna, Daiana Elizabeth",
+        "Puntos": 0.0,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Medina, Braian Bernabe",
+        "Puntos": 0.0,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Sanz, Ezequiel David",
+        "Puntos": 0.0,
+        "Procedencia": "Mercedes"
+      },
+      {
+        "Jugador": "Sosa, Pablo",
+        "Puntos": 0.0,
+        "Procedencia": "Suipacha"
+      },
+      {
+        "Jugador": "Velazquez, Yair",
+        "Puntos": 0.0,
+        "Procedencia": "Tigre"
+      }
+    ],
+    "acumulado_gp": [
+      {
+        "Jugador": "Moldovan, Adrian Matias",
+        "Puntos_GP": 43.0,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Amato, Leonel",
+        "Puntos_GP": 40.0,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Gomez Padula, Emanuel",
+        "Puntos_GP": 20.0,
+        "Procedencia": "Mercedes"
+      },
+      {
+        "Jugador": "Ferrara, Enzo",
+        "Puntos_GP": 18.0,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Molina Salazar, Facundo",
+        "Puntos_GP": 15.0,
+        "Procedencia": "Escobar"
+      },
+      {
+        "Jugador": "Basso, Leonardo",
+        "Puntos_GP": 12.0,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Zarate, Cristian",
+        "Puntos_GP": 12.0,
+        "Procedencia": "Derqui"
+      },
+      {
+        "Jugador": "Pousa, Federico",
+        "Puntos_GP": 11.0,
+        "Procedencia": "Escobar"
+      },
+      {
+        "Jugador": "Easdale, Alan",
+        "Puntos_GP": 10.0,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Pineda, Thiago",
+        "Puntos_GP": 8.0,
+        "Procedencia": "Escobar"
+      },
+      {
+        "Jugador": "Gioscio Iribarne, Jorge Gabriel",
+        "Puntos_GP": 4.0,
+        "Procedencia": "Mercedes"
+      },
+      {
+        "Jugador": "Berterreigts, Thiago",
+        "Puntos_GP": 4.0,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Anigstein, Eugenio",
+        "Puntos_GP": 2.0,
+        "Procedencia": "General Rodríguez"
+      },
+      {
+        "Jugador": "Gonzalez, Nazareno",
+        "Puntos_GP": 2.0,
+        "Procedencia": "Escobar"
+      },
+      {
+        "Jugador": "Ferzzola, Tobias",
+        "Puntos_GP": 1.0,
+        "Procedencia": "Lobos"
+      },
+      {
+        "Jugador": "Calegari, Alexis",
+        "Puntos_GP": 0.0,
+        "Procedencia": "General Rodríguez"
+      },
+      {
+        "Jugador": "Capria, Fernando",
+        "Puntos_GP": 0.0,
+        "Procedencia": "General Las Heras"
+      },
+      {
+        "Jugador": "Chavez, Julio",
+        "Puntos_GP": 0.0,
+        "Procedencia": "-"
+      },
+      {
+        "Jugador": "Chavez, Jorge",
+        "Puntos_GP": 0.0,
+        "Procedencia": "-"
+      },
+      {
+        "Jugador": "Cisnero, Maria Luana",
+        "Puntos_GP": 0.0,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Coppari, Emiliano",
+        "Puntos_GP": 0.0,
+        "Procedencia": "Lobos"
+      },
+      {
+        "Jugador": "Amarilla, Abril",
+        "Puntos_GP": 0.0,
+        "Procedencia": "General Rodríguez"
+      },
+      {
+        "Jugador": "Alvarez, Mia Morena",
+        "Puntos_GP": 0.0,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Aquino, Junior",
+        "Puntos_GP": 0.0,
+        "Procedencia": "General Rodríguez"
+      },
+      {
+        "Jugador": "Anud, Adrian",
+        "Puntos_GP": 0.0,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Barroso, Oscar Alberto",
+        "Puntos_GP": 0.0,
+        "Procedencia": "General Rodríguez"
+      },
+      {
+        "Jugador": "Ayala Cano, Martin",
+        "Puntos_GP": 0.0,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Bisquerra, Lautaro",
+        "Puntos_GP": 0.0,
+        "Procedencia": "Bragado"
+      },
+      {
+        "Jugador": "Bourre, Paz",
+        "Puntos_GP": 0.0,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Caceres, Diego",
+        "Puntos_GP": 0.0,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Alonso, Javier",
+        "Puntos_GP": 0.0,
+        "Procedencia": "Suipacha"
+      },
+      {
+        "Jugador": "Fernandez Rivero, Juan Rodrigo",
+        "Puntos_GP": 0.0,
+        "Procedencia": "General Rodríguez"
+      },
+      {
+        "Jugador": "Fernandez Llorente, Javier",
+        "Puntos_GP": 0.0,
+        "Procedencia": "Bragado"
+      },
+      {
+        "Jugador": "Ernst, Marcelo",
+        "Puntos_GP": 0.0,
+        "Procedencia": "Escobar"
+      },
+      {
+        "Jugador": "Ditz, Dion",
+        "Puntos_GP": 0.0,
+        "Procedencia": "Escobar"
+      },
+      {
+        "Jugador": "Della Vedova, Victor",
+        "Puntos_GP": 0.0,
+        "Procedencia": "General Rodríguez"
+      },
+      {
+        "Jugador": "Diaz, Jorge",
+        "Puntos_GP": 0.0,
+        "Procedencia": "-"
+      },
+      {
+        "Jugador": "Decipio, Jeremias",
+        "Puntos_GP": 0.0,
+        "Procedencia": "Escobar"
+      },
+      {
+        "Jugador": "D'Onofrio, Jose",
+        "Puntos_GP": 0.0,
+        "Procedencia": "Suipacha"
+      },
+      {
+        "Jugador": "Cisnero, Luana",
+        "Puntos_GP": 0.0,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Corindo, Lautaro",
+        "Puntos_GP": 0.0,
+        "Procedencia": "Marcos Paz"
+      },
+      {
+        "Jugador": "Garcia, Nicolas",
+        "Puntos_GP": 0.0,
+        "Procedencia": "Mercedes"
+      },
+      {
+        "Jugador": "Guerrero, Julio Fabian",
+        "Puntos_GP": 0.0,
+        "Procedencia": "General Las Heras"
+      },
+      {
+        "Jugador": "Guerrero, Owen",
+        "Puntos_GP": 0.0,
+        "Procedencia": "General Rodríguez"
+      },
+      {
+        "Jugador": "Garcia, Manuel Nicolas",
+        "Puntos_GP": 0.0,
+        "Procedencia": "San Miguel"
+      },
+      {
+        "Jugador": "Galeano, Mayte",
+        "Puntos_GP": 0.0,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Galeano Ortiz, Angel Gaston",
+        "Puntos_GP": 0.0,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Indo, Juan",
+        "Puntos_GP": 0.0,
+        "Procedencia": "Escobar"
+      },
+      {
+        "Jugador": "Hidalgo, Ingrid Geraldine",
+        "Puntos_GP": 0.0,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Jose Andres, Soto Siles",
+        "Puntos_GP": 0.0,
+        "Procedencia": "General Rodríguez"
+      },
+      {
+        "Jugador": "Lanzos, Ernesto",
+        "Puntos_GP": 0.0,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Lopez, Jonathan",
+        "Puntos_GP": 0.0,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Lordi, Fausto",
+        "Puntos_GP": 0.0,
+        "Procedencia": "General Rodríguez"
+      },
+      {
+        "Jugador": "Lazzaro, Gaston",
+        "Puntos_GP": 0.0,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Ledesma, Guillermo",
+        "Puntos_GP": 0.0,
+        "Procedencia": "General Rodríguez"
+      },
+      {
+        "Jugador": "Magge, Nicolas Gabriel",
+        "Puntos_GP": 0.0,
+        "Procedencia": "San Miguel"
+      },
+      {
+        "Jugador": "Luna, Daiana Elizabeth",
+        "Puntos_GP": 0.0,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Martinez, Cristian",
+        "Puntos_GP": 0.0,
+        "Procedencia": "-"
+      },
+      {
+        "Jugador": "Martinez, Facundo",
+        "Puntos_GP": 0.0,
+        "Procedencia": "Escobar"
+      },
+      {
+        "Jugador": "Medina, Braian Bernabe",
+        "Puntos_GP": 0.0,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Harasimowicz, Sebastian",
+        "Puntos_GP": 0.0,
+        "Procedencia": "General Rodríguez"
+      },
+      {
+        "Jugador": "Frias, Leandro",
+        "Puntos_GP": 0.0,
+        "Procedencia": "General Rodríguez"
+      },
+      {
+        "Jugador": "Fuentes, Federico",
+        "Puntos_GP": 0.0,
+        "Procedencia": "General Rodríguez"
+      },
+      {
+        "Jugador": "Montaldo, Ivan",
+        "Puntos_GP": 0.0,
+        "Procedencia": "Luján"
+      },
+      {
+        "Jugador": "Merlini, Alejo",
+        "Puntos_GP": 0.0,
+        "Procedencia": "Mercedes"
+      },
+      {
+        "Jugador": "Martinez, Omar Christian",
+        "Puntos_GP": 0.0,
+        "Procedencia": "Marcos Paz"
+      },
+      {
+        "Jugador": "Morales, Pedro Jorge",
+        "Puntos_GP": 0.0,
+        "Procedencia": "Escobar"
+      },
+      {
+        "Jugador": "Orsini, Nicolas",
+        "Puntos_GP": 0.0,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Pentray, Oscar",
+        "Puntos_GP": 0.0,
+        "Procedencia": "Lobos"
+      },
+      {
+        "Jugador": "Oharriz, Joaquin",
+        "Puntos_GP": 0.0,
+        "Procedencia": "Lobos"
+      },
+      {
+        "Jugador": "Ocampo, Maximo Elias",
+        "Puntos_GP": 0.0,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Pereira, Jorge Daviv",
+        "Puntos_GP": 0.0,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Pereira, Jorge David",
+        "Puntos_GP": 0.0,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Ramirez, Melanie",
+        "Puntos_GP": 0.0,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Rivas, Claudio",
+        "Puntos_GP": 0.0,
+        "Procedencia": "Escobar"
+      },
+      {
+        "Jugador": "Rojas, Ismael",
+        "Puntos_GP": 0.0,
+        "Procedencia": "-"
+      },
+      {
+        "Jugador": "Rojas, Samuel",
+        "Puntos_GP": 0.0,
+        "Procedencia": "-"
+      },
+      {
+        "Jugador": "Rojas, Sara",
+        "Puntos_GP": 0.0,
+        "Procedencia": "-"
+      },
+      {
+        "Jugador": "Olivera Sacchi, Guadalupe",
+        "Puntos_GP": 0.0,
+        "Procedencia": "General Rodríguez"
+      },
+      {
+        "Jugador": "Rubiolo, Ernesto",
+        "Puntos_GP": 0.0,
+        "Procedencia": "-"
+      },
+      {
+        "Jugador": "Sanz, Ezequiel David",
+        "Puntos_GP": 0.0,
+        "Procedencia": "Mercedes"
+      },
+      {
+        "Jugador": "Scriffignano, Lautaro Daniel",
+        "Puntos_GP": 0.0,
+        "Procedencia": "General Rodríguez"
+      },
+      {
+        "Jugador": "Scardella, Daniela",
+        "Puntos_GP": 0.0,
+        "Procedencia": "Suipacha"
+      },
+      {
+        "Jugador": "Sosa, Pablo",
+        "Puntos_GP": 0.0,
+        "Procedencia": "Suipacha"
+      },
+      {
+        "Jugador": "Staravijosky, Guillermo",
+        "Puntos_GP": 0.0,
+        "Procedencia": "General Rodríguez"
+      },
+      {
+        "Jugador": "Stutz, Leon",
+        "Puntos_GP": 0.0,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Shon, Mariano",
+        "Puntos_GP": 0.0,
+        "Procedencia": "Campana"
+      },
+      {
+        "Jugador": "Suarez, Alejandro Gabriel",
+        "Puntos_GP": 0.0,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Suarez, Noelia Irani",
+        "Puntos_GP": 0.0,
+        "Procedencia": "General Rodríguez"
+      },
+      {
+        "Jugador": "Velazquez, Yair",
+        "Puntos_GP": 0.0,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Umpierre, Enzo",
+        "Puntos_GP": 0.0,
+        "Procedencia": "Lobos"
+      },
+      {
+        "Jugador": "Veron, Kevin",
+        "Puntos_GP": 0.0,
+        "Procedencia": "Marcos Paz"
+      },
+      {
+        "Jugador": "Villar, Javier",
+        "Puntos_GP": 0.0,
+        "Procedencia": "Campana"
+      },
+      {
+        "Jugador": "Villasrreo, Esteban Sebastian",
+        "Puntos_GP": 0.0,
+        "Procedencia": "General Las Heras"
+      },
+      {
+        "Jugador": "Viva, Melanie Soledad",
+        "Puntos_GP": 0.0,
+        "Procedencia": "Tigre"
+      }
+    ]
+  },
+  "Sub-16": {
+    "fases": {
+      "Fase 1": {
+        "link_chess_results": "#",
+        "resultados": [
+          {
+            "Posicion": 1,
+            "Jugador": "Almada, Juan Bautista",
+            "Procedencia": "Escobar",
+            "Puntos": 6.0
+          },
+          {
+            "Posicion": 2,
+            "Jugador": "Pou, Pedro",
+            "Procedencia": "General Rodríguez",
+            "Puntos": 5.5
+          },
+          {
+            "Posicion": 3,
+            "Jugador": "Ortiz Ramirez, Luciano Uriel",
+            "Procedencia": "General Rodríguez",
+            "Puntos": 5.5
+          },
+          {
+            "Posicion": 4,
+            "Jugador": "Garcia, Luana",
+            "Procedencia": "Pilar",
+            "Puntos": 5.5
+          },
+          {
+            "Posicion": 5,
+            "Jugador": "Accomo, Juan Martin",
+            "Procedencia": "Suipacha",
+            "Puntos": 5.0
+          },
+          {
+            "Posicion": 6,
+            "Jugador": "Papandrea, Bautista",
+            "Procedencia": "Tigre",
+            "Puntos": 4.5
+          },
+          {
+            "Posicion": 7,
+            "Jugador": "Soto Siles, Javier Isidoro",
+            "Procedencia": "General Rodríguez",
+            "Puntos": 4.5
+          },
+          {
+            "Posicion": 8,
+            "Jugador": "Caballero, Miqueas",
+            "Procedencia": "Tigre",
+            "Puntos": 4.5
+          },
+          {
+            "Posicion": 9,
+            "Jugador": "Torre, Joaquin",
+            "Procedencia": "General Las Heras",
+            "Puntos": 4.5
+          },
+          {
+            "Posicion": 10,
+            "Jugador": "Tevez, Bruno Isaias",
+            "Procedencia": "Tigre",
+            "Puntos": 4.5
+          },
+          {
+            "Posicion": 11,
+            "Jugador": "Roldan Ramos, Stanley",
+            "Procedencia": "General Rodríguez",
+            "Puntos": 4.0
+          },
+          {
+            "Posicion": 12,
+            "Jugador": "Valdez, Brandon Jeremias",
+            "Procedencia": "Tigre",
+            "Puntos": 4.0
+          },
+          {
+            "Posicion": 13,
+            "Jugador": "Balzano, Lauti",
+            "Procedencia": "Escobar",
+            "Puntos": 4.0
+          },
+          {
+            "Posicion": 14,
+            "Jugador": "Kratzer, Pilar",
+            "Procedencia": "Zárate",
+            "Puntos": 4.0
+          },
+          {
+            "Posicion": 15,
+            "Jugador": "Fleitas, Facundo",
+            "Procedencia": "Tigre",
+            "Puntos": 4.0
+          },
+          {
+            "Posicion": 16,
+            "Jugador": "Ibarra, Lautaro Javier",
+            "Procedencia": "Tigre",
+            "Puntos": 4.0
+          },
+          {
+            "Posicion": 17,
+            "Jugador": "Fretes, Alexis",
+            "Procedencia": "General Rodríguez",
+            "Puntos": 3.5
+          },
+          {
+            "Posicion": 18,
+            "Jugador": "Amarilla, Marco",
+            "Procedencia": "General Rodríguez",
+            "Puntos": 3.5
+          },
+          {
+            "Posicion": 19,
+            "Jugador": "Rosse, Mariano",
+            "Procedencia": "Escobar",
+            "Puntos": 3.5
+          },
+          {
+            "Posicion": 20,
+            "Jugador": "Sivero, Joaquin",
+            "Procedencia": "Escobar",
+            "Puntos": 3.0
+          },
+          {
+            "Posicion": 21,
+            "Jugador": "Winkler, Alfonsina",
+            "Procedencia": "Lobos",
+            "Puntos": 3.0
+          },
+          {
+            "Posicion": 22,
+            "Jugador": "Altamirano, Victoria",
+            "Procedencia": "Escobar",
+            "Puntos": 3.0
+          },
+          {
+            "Posicion": 23,
+            "Jugador": "Victor, Juniors",
+            "Procedencia": "Lobos",
+            "Puntos": 3.0
+          },
+          {
+            "Posicion": 24,
+            "Jugador": "Zavala, Tobias",
+            "Procedencia": "Escobar",
+            "Puntos": 3.0
+          },
+          {
+            "Posicion": 25,
+            "Jugador": "Pallone, Tatiana",
+            "Procedencia": "General Rodríguez",
+            "Puntos": 3.0
+          },
+          {
+            "Posicion": 26,
+            "Jugador": "Pentray, Itzel",
+            "Procedencia": "Lobos",
+            "Puntos": 3.0
+          },
+          {
+            "Posicion": 27,
+            "Jugador": "Palacio, Brian",
+            "Procedencia": "-",
+            "Puntos": 3.0
+          },
+          {
+            "Posicion": 28,
+            "Jugador": "Rial, Joaquin Tiziano",
+            "Procedencia": "General Rodríguez",
+            "Puntos": 3.0
+          },
+          {
+            "Posicion": 29,
+            "Jugador": "Restuccia, Renzo Uziel",
+            "Procedencia": "General Rodríguez",
+            "Puntos": 2.5
+          },
+          {
+            "Posicion": 30,
+            "Jugador": "Realini, Josue",
+            "Procedencia": "Lobos",
+            "Puntos": 2.0
+          },
+          {
+            "Posicion": 31,
+            "Jugador": "Gonzalez Perez, Bautista",
+            "Procedencia": "-",
+            "Puntos": 2.0
+          },
+          {
+            "Posicion": 32,
+            "Jugador": "Kowalczuk, Lorenzo",
+            "Procedencia": "Tigre",
+            "Puntos": 2.0
+          },
+          {
+            "Posicion": 33,
+            "Jugador": "Caceres, Ramiro",
+            "Procedencia": "Tigre",
+            "Puntos": 1.0
+          },
+          {
+            "Posicion": 34,
+            "Jugador": "Egui, Leandro Jose",
+            "Procedencia": "Tigre",
+            "Puntos": 1.0
+          },
+          {
+            "Posicion": 35,
+            "Jugador": "Rimbaud, Valentin",
+            "Procedencia": "Tigre",
+            "Puntos": 1.0
+          }
+        ]
+      },
+      "Fase 2": {
+        "link_chess_results": "#",
+        "resultados": [
+          {
+            "Posicion": 1,
+            "Jugador": "Pou, Pedro",
+            "Procedencia": "General Rodríguez",
+            "Puntos": 6.0
+          },
+          {
+            "Posicion": 2,
+            "Jugador": "Buljubasich, Pedro",
+            "Procedencia": "Salto",
+            "Puntos": 5.5
+          },
+          {
+            "Posicion": 3,
+            "Jugador": "Amarilla, Marco",
+            "Procedencia": "General Rodríguez",
+            "Puntos": 5.0
+          },
+          {
+            "Posicion": 4,
+            "Jugador": "Soto, Javier",
+            "Procedencia": "General Rodríguez",
+            "Puntos": 5.0
+          },
+          {
+            "Posicion": 5,
+            "Jugador": "Papandrea, Bautista",
+            "Procedencia": "Tigre",
+            "Puntos": 5.0
+          },
+          {
+            "Posicion": 6,
+            "Jugador": "Almada, Juan Bautista",
+            "Procedencia": "Escobar",
+            "Puntos": 5.0
+          },
+          {
+            "Posicion": 7,
+            "Jugador": "Fleitas, Facundo",
+            "Procedencia": "Tigre",
+            "Puntos": 5.0
+          },
+          {
+            "Posicion": 8,
+            "Jugador": "Roldan Ramos, Stanley",
+            "Procedencia": "General Rodríguez",
+            "Puntos": 4.5
+          },
+          {
+            "Posicion": 9,
+            "Jugador": "Ortiz Ramirez, Luciano Uriel",
+            "Procedencia": "General Rodríguez",
+            "Puntos": 4.0
+          },
+          {
+            "Posicion": 10,
+            "Jugador": "Altamirano, Victoria",
+            "Procedencia": "Escobar",
+            "Puntos": 4.0
+          },
+          {
+            "Posicion": 11,
+            "Jugador": "Caballero, Miqueas",
+            "Procedencia": "Tigre",
+            "Puntos": 4.0
+          },
+          {
+            "Posicion": 12,
+            "Jugador": "Accomo, Juan Martin",
+            "Procedencia": "Suipacha",
+            "Puntos": 4.0
+          },
+          {
+            "Posicion": 13,
+            "Jugador": "Bustos, Felipe",
+            "Procedencia": "Tigre",
+            "Puntos": 4.0
+          },
+          {
+            "Posicion": 14,
+            "Jugador": "Tevez, Bruno Isaias",
+            "Procedencia": "Tigre",
+            "Puntos": 4.0
+          },
+          {
+            "Posicion": 15,
+            "Jugador": "Stutz, Leon",
+            "Procedencia": "Tigre",
+            "Puntos": 3.5
+          },
+          {
+            "Posicion": 16,
+            "Jugador": "Balzano, Lautaro",
+            "Procedencia": "Escobar",
+            "Puntos": 3.5
+          },
+          {
+            "Posicion": 17,
+            "Jugador": "Silvero, Joaquin",
+            "Procedencia": "Escobar",
+            "Puntos": 3.5
+          },
+          {
+            "Posicion": 18,
+            "Jugador": "Martinez, Mateo Valentin",
+            "Procedencia": "Tigre",
+            "Puntos": 3.0
+          },
+          {
+            "Posicion": 19,
+            "Jugador": "Zavala, Valentino",
+            "Procedencia": "Escobar",
+            "Puntos": 3.0
+          },
+          {
+            "Posicion": 20,
+            "Jugador": "Kratzer, Pilar",
+            "Procedencia": "Zárate",
+            "Puntos": 3.0
+          },
+          {
+            "Posicion": 21,
+            "Jugador": "Realini, Josue",
+            "Procedencia": "Lobos",
+            "Puntos": 3.0
+          },
+          {
+            "Posicion": 22,
+            "Jugador": "Winkler, Alfonsina",
+            "Procedencia": "Lobos",
+            "Puntos": 3.0
+          },
+          {
+            "Posicion": 23,
+            "Jugador": "Rosse, Mariano",
+            "Procedencia": "Escobar",
+            "Puntos": 2.5
+          },
+          {
+            "Posicion": 24,
+            "Jugador": "Victor, Juniors",
+            "Procedencia": "Lobos",
+            "Puntos": 2.5
+          },
+          {
+            "Posicion": 25,
+            "Jugador": "Mejia, Astor",
+            "Procedencia": "Marcos Paz",
+            "Puntos": 2.0
+          },
+          {
+            "Posicion": 26,
+            "Jugador": "Machado, Leonel",
+            "Procedencia": "General Rodríguez",
+            "Puntos": 2.0
+          },
+          {
+            "Posicion": 27,
+            "Jugador": "Gonzalez, Bautista",
+            "Procedencia": "Escobar",
+            "Puntos": 2.0
+          },
+          {
+            "Posicion": 28,
+            "Jugador": "Pentray, Itzel",
+            "Procedencia": "Lobos",
+            "Puntos": 2.0
+          },
+          {
+            "Posicion": 29,
+            "Jugador": "Palacio, Brian",
+            "Procedencia": "Tigre",
+            "Puntos": 1.5
+          },
+          {
+            "Posicion": 30,
+            "Jugador": "Britez Luna, Tomas Valentin",
+            "Procedencia": "Tigre",
+            "Puntos": 0.0
+          }
+        ]
+      }
+    },
+    "acumulado_puntos": [
+      {
+        "Jugador": "Pou, Pedro",
+        "Puntos": 11.5,
+        "Procedencia": "General Rodríguez"
+      },
+      {
+        "Jugador": "Almada, Juan Bautista",
+        "Puntos": 11.0,
+        "Procedencia": "Escobar"
+      },
+      {
+        "Jugador": "Ortiz Ramirez, Luciano Uriel",
+        "Puntos": 9.5,
+        "Procedencia": "General Rodríguez"
+      },
+      {
+        "Jugador": "Papandrea, Bautista",
+        "Puntos": 9.5,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Accomo, Juan Martin",
+        "Puntos": 9.0,
+        "Procedencia": "Suipacha"
+      },
+      {
+        "Jugador": "Fleitas, Facundo",
+        "Puntos": 9.0,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Caballero, Miqueas",
+        "Puntos": 8.5,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Roldan Ramos, Stanley",
+        "Puntos": 8.5,
+        "Procedencia": "General Rodríguez"
+      },
+      {
+        "Jugador": "Amarilla, Marco",
+        "Puntos": 8.5,
+        "Procedencia": "General Rodríguez"
+      },
+      {
+        "Jugador": "Tevez, Bruno Isaias",
+        "Puntos": 8.5,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Kratzer, Pilar",
+        "Puntos": 7.0,
+        "Procedencia": "Zárate"
+      },
+      {
+        "Jugador": "Altamirano, Victoria",
+        "Puntos": 7.0,
+        "Procedencia": "Escobar"
+      },
+      {
+        "Jugador": "Rosse, Mariano",
+        "Puntos": 6.0,
+        "Procedencia": "Escobar"
+      },
+      {
+        "Jugador": "Winkler, Alfonsina",
+        "Puntos": 6.0,
+        "Procedencia": "Lobos"
+      },
+      {
+        "Jugador": "Garcia, Luana",
+        "Puntos": 5.5,
+        "Procedencia": "Pilar"
+      },
+      {
+        "Jugador": "Victor, Juniors",
+        "Puntos": 5.5,
+        "Procedencia": "Lobos"
+      },
+      {
+        "Jugador": "Buljubasich, Pedro",
+        "Puntos": 5.5,
+        "Procedencia": "Salto"
+      },
+      {
+        "Jugador": "Soto, Javier",
+        "Puntos": 5.0,
+        "Procedencia": "General Rodríguez"
+      },
+      {
+        "Jugador": "Pentray, Itzel",
+        "Puntos": 5.0,
+        "Procedencia": "Lobos"
+      },
+      {
+        "Jugador": "Realini, Josue",
+        "Puntos": 5.0,
+        "Procedencia": "Lobos"
+      },
+      {
+        "Jugador": "Soto Siles, Javier Isidoro",
+        "Puntos": 4.5,
+        "Procedencia": "General Rodríguez"
+      },
+      {
+        "Jugador": "Palacio, Brian",
+        "Puntos": 4.5,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Torre, Joaquin",
+        "Puntos": 4.5,
+        "Procedencia": "General Las Heras"
+      },
+      {
+        "Jugador": "Valdez, Brandon Jeremias",
+        "Puntos": 4.0,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Balzano, Lauti",
+        "Puntos": 4.0,
+        "Procedencia": "Escobar"
+      },
+      {
+        "Jugador": "Bustos, Felipe",
+        "Puntos": 4.0,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Ibarra, Lautaro Javier",
+        "Puntos": 4.0,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Balzano, Lautaro",
+        "Puntos": 3.5,
+        "Procedencia": "Escobar"
+      },
+      {
+        "Jugador": "Stutz, Leon",
+        "Puntos": 3.5,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Silvero, Joaquin",
+        "Puntos": 3.5,
+        "Procedencia": "Escobar"
+      },
+      {
+        "Jugador": "Fretes, Alexis",
+        "Puntos": 3.5,
+        "Procedencia": "General Rodríguez"
+      },
+      {
+        "Jugador": "Zavala, Valentino",
+        "Puntos": 3.0,
+        "Procedencia": "Escobar"
+      },
+      {
+        "Jugador": "Sivero, Joaquin",
+        "Puntos": 3.0,
+        "Procedencia": "Escobar"
+      },
+      {
+        "Jugador": "Martinez, Mateo Valentin",
+        "Puntos": 3.0,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Rial, Joaquin Tiziano",
+        "Puntos": 3.0,
+        "Procedencia": "General Rodríguez"
+      },
+      {
+        "Jugador": "Zavala, Tobias",
+        "Puntos": 3.0,
+        "Procedencia": "Escobar"
+      },
+      {
+        "Jugador": "Pallone, Tatiana",
+        "Puntos": 3.0,
+        "Procedencia": "General Rodríguez"
+      },
+      {
+        "Jugador": "Restuccia, Renzo Uziel",
+        "Puntos": 2.5,
+        "Procedencia": "General Rodríguez"
+      },
+      {
+        "Jugador": "Kowalczuk, Lorenzo",
+        "Puntos": 2.0,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Mejia, Astor",
+        "Puntos": 2.0,
+        "Procedencia": "Marcos Paz"
+      },
+      {
+        "Jugador": "Gonzalez, Bautista",
+        "Puntos": 2.0,
+        "Procedencia": "Escobar"
+      },
+      {
+        "Jugador": "Machado, Leonel",
+        "Puntos": 2.0,
+        "Procedencia": "General Rodríguez"
+      },
+      {
+        "Jugador": "Gonzalez Perez, Bautista",
+        "Puntos": 2.0,
+        "Procedencia": "-"
+      },
+      {
+        "Jugador": "Caceres, Ramiro",
+        "Puntos": 1.0,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Egui, Leandro Jose",
+        "Puntos": 1.0,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Rimbaud, Valentin",
+        "Puntos": 1.0,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Britez Luna, Tomas Valentin",
+        "Puntos": 0.0,
+        "Procedencia": "Tigre"
+      }
+    ],
+    "acumulado_gp": [
+      {
+        "Jugador": "Pou, Pedro",
+        "Puntos_GP": 43.0,
+        "Procedencia": "General Rodríguez"
+      },
+      {
+        "Jugador": "Almada, Juan Bautista",
+        "Puntos_GP": 33.0,
+        "Procedencia": "Escobar"
+      },
+      {
+        "Jugador": "Buljubasich, Pedro",
+        "Puntos_GP": 18.0,
+        "Procedencia": "Salto"
+      },
+      {
+        "Jugador": "Papandrea, Bautista",
+        "Puntos_GP": 18.0,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Ortiz Ramirez, Luciano Uriel",
+        "Puntos_GP": 17.0,
+        "Procedencia": "General Rodríguez"
+      },
+      {
+        "Jugador": "Amarilla, Marco",
+        "Puntos_GP": 15.0,
+        "Procedencia": "General Rodríguez"
+      },
+      {
+        "Jugador": "Garcia, Luana",
+        "Puntos_GP": 12.0,
+        "Procedencia": "Pilar"
+      },
+      {
+        "Jugador": "Soto, Javier",
+        "Puntos_GP": 12.0,
+        "Procedencia": "General Rodríguez"
+      },
+      {
+        "Jugador": "Accomo, Juan Martin",
+        "Puntos_GP": 10.0,
+        "Procedencia": "Suipacha"
+      },
+      {
+        "Jugador": "Fleitas, Facundo",
+        "Puntos_GP": 6.0,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Soto Siles, Javier Isidoro",
+        "Puntos_GP": 6.0,
+        "Procedencia": "General Rodríguez"
+      },
+      {
+        "Jugador": "Roldan Ramos, Stanley",
+        "Puntos_GP": 4.0,
+        "Procedencia": "General Rodríguez"
+      },
+      {
+        "Jugador": "Caballero, Miqueas",
+        "Puntos_GP": 4.0,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Torre, Joaquin",
+        "Puntos_GP": 2.0,
+        "Procedencia": "General Las Heras"
+      },
+      {
+        "Jugador": "Altamirano, Victoria",
+        "Puntos_GP": 1.0,
+        "Procedencia": "Escobar"
+      },
+      {
+        "Jugador": "Tevez, Bruno Isaias",
+        "Puntos_GP": 1.0,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Fretes, Alexis",
+        "Puntos_GP": 0.0,
+        "Procedencia": "General Rodríguez"
+      },
+      {
+        "Jugador": "Bustos, Felipe",
+        "Puntos_GP": 0.0,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Egui, Leandro Jose",
+        "Puntos_GP": 0.0,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Balzano, Lauti",
+        "Puntos_GP": 0.0,
+        "Procedencia": "Escobar"
+      },
+      {
+        "Jugador": "Balzano, Lautaro",
+        "Puntos_GP": 0.0,
+        "Procedencia": "Escobar"
+      },
+      {
+        "Jugador": "Britez Luna, Tomas Valentin",
+        "Puntos_GP": 0.0,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Caceres, Ramiro",
+        "Puntos_GP": 0.0,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Mejia, Astor",
+        "Puntos_GP": 0.0,
+        "Procedencia": "Marcos Paz"
+      },
+      {
+        "Jugador": "Martinez, Mateo Valentin",
+        "Puntos_GP": 0.0,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Machado, Leonel",
+        "Puntos_GP": 0.0,
+        "Procedencia": "General Rodríguez"
+      },
+      {
+        "Jugador": "Gonzalez Perez, Bautista",
+        "Puntos_GP": 0.0,
+        "Procedencia": "-"
+      },
+      {
+        "Jugador": "Kratzer, Pilar",
+        "Puntos_GP": 0.0,
+        "Procedencia": "Zárate"
+      },
+      {
+        "Jugador": "Gonzalez, Bautista",
+        "Puntos_GP": 0.0,
+        "Procedencia": "Escobar"
+      },
+      {
+        "Jugador": "Ibarra, Lautaro Javier",
+        "Puntos_GP": 0.0,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Kowalczuk, Lorenzo",
+        "Puntos_GP": 0.0,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Restuccia, Renzo Uziel",
+        "Puntos_GP": 0.0,
+        "Procedencia": "General Rodríguez"
+      },
+      {
+        "Jugador": "Realini, Josue",
+        "Puntos_GP": 0.0,
+        "Procedencia": "Lobos"
+      },
+      {
+        "Jugador": "Pentray, Itzel",
+        "Puntos_GP": 0.0,
+        "Procedencia": "Lobos"
+      },
+      {
+        "Jugador": "Pallone, Tatiana",
+        "Puntos_GP": 0.0,
+        "Procedencia": "General Rodríguez"
+      },
+      {
+        "Jugador": "Palacio, Brian",
+        "Puntos_GP": 0.0,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Rimbaud, Valentin",
+        "Puntos_GP": 0.0,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Rosse, Mariano",
+        "Puntos_GP": 0.0,
+        "Procedencia": "Escobar"
+      },
+      {
+        "Jugador": "Rial, Joaquin Tiziano",
+        "Puntos_GP": 0.0,
+        "Procedencia": "General Rodríguez"
+      },
+      {
+        "Jugador": "Silvero, Joaquin",
+        "Puntos_GP": 0.0,
+        "Procedencia": "Escobar"
+      },
+      {
+        "Jugador": "Sivero, Joaquin",
+        "Puntos_GP": 0.0,
+        "Procedencia": "Escobar"
+      },
+      {
+        "Jugador": "Stutz, Leon",
+        "Puntos_GP": 0.0,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Valdez, Brandon Jeremias",
+        "Puntos_GP": 0.0,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Victor, Juniors",
+        "Puntos_GP": 0.0,
+        "Procedencia": "Lobos"
+      },
+      {
+        "Jugador": "Winkler, Alfonsina",
+        "Puntos_GP": 0.0,
+        "Procedencia": "Lobos"
+      },
+      {
+        "Jugador": "Zavala, Tobias",
+        "Puntos_GP": 0.0,
+        "Procedencia": "Escobar"
+      },
+      {
+        "Jugador": "Zavala, Valentino",
+        "Puntos_GP": 0.0,
+        "Procedencia": "Escobar"
+      }
+    ]
+  },
+  "Sub-8": {
+    "fases": {
+      "Fase 1": {
+        "link_chess_results": "#",
+        "resultados": [
+          {
+            "Posicion": 1,
+            "Jugador": "Vedia Caiguara, Alejandro Rider",
+            "Procedencia": "Escobar",
+            "Puntos": 7.0
+          },
+          {
+            "Posicion": 2,
+            "Jugador": "Victor, Pedro",
+            "Procedencia": "Lobos",
+            "Puntos": 6.0
+          },
+          {
+            "Posicion": 3,
+            "Jugador": "Areitio, Valentino",
+            "Procedencia": "Luján",
+            "Puntos": 5.0
+          },
+          {
+            "Posicion": 4,
+            "Jugador": "Villar, Lorenzo",
+            "Procedencia": "Campana",
+            "Puntos": 4.0
+          },
+          {
+            "Posicion": 5,
+            "Jugador": "Fernandez, Gianlucca",
+            "Procedencia": "Escobar",
+            "Puntos": 4.0
+          },
+          {
+            "Posicion": 6,
+            "Jugador": "Laforet, Juan Pablo",
+            "Procedencia": "Escobar",
+            "Puntos": 3.5
+          },
+          {
+            "Posicion": 7,
+            "Jugador": "Gnazzo, Victoria",
+            "Procedencia": "Lobos",
+            "Puntos": 3.5
+          },
+          {
+            "Posicion": 8,
+            "Jugador": "Gelmetti De Leon, Luciano",
+            "Procedencia": "Campana",
+            "Puntos": 3.5
+          },
+          {
+            "Posicion": 9,
+            "Jugador": "Pousa, Nicolas",
+            "Procedencia": "Escobar",
+            "Puntos": 3.0
+          },
+          {
+            "Posicion": 10,
+            "Jugador": "Trobec, Sol",
+            "Procedencia": "Villars",
+            "Puntos": 2.5
+          },
+          {
+            "Posicion": 11,
+            "Jugador": "Mujica Alancay, Maximiliano",
+            "Procedencia": "Lobos",
+            "Puntos": 2.0
+          },
+          {
+            "Posicion": 12,
+            "Jugador": "Cendon Denis, Adriel",
+            "Procedencia": "General Rodríguez",
+            "Puntos": 1.5
+          },
+          {
+            "Posicion": 13,
+            "Jugador": "Baez, Cielo",
+            "Procedencia": "Tigre",
+            "Puntos": 1.0
+          }
+        ]
+      },
+      "Fase 2": {
+        "link_chess_results": "#",
+        "resultados": [
+          {
+            "Posicion": 1,
+            "Jugador": "Victor, Pedro",
+            "Procedencia": "Lobos",
+            "Puntos": 6.0
+          },
+          {
+            "Posicion": 2,
+            "Jugador": "Areitio, Valentino",
+            "Procedencia": "Luján",
+            "Puntos": 6.0
+          },
+          {
+            "Posicion": 3,
+            "Jugador": "Fernandez, Gianlucca",
+            "Procedencia": "Escobar",
+            "Puntos": 5.0
+          },
+          {
+            "Posicion": 4,
+            "Jugador": "Villar, Lorenzo",
+            "Procedencia": "Campana",
+            "Puntos": 5.0
+          },
+          {
+            "Posicion": 5,
+            "Jugador": "Rivero, Emanuel",
+            "Procedencia": "Suipacha",
+            "Puntos": 4.0
+          },
+          {
+            "Posicion": 6,
+            "Jugador": "Coseglia, Genaro",
+            "Procedencia": "Lobos",
+            "Puntos": 4.0
+          },
+          {
+            "Posicion": 7,
+            "Jugador": "Pousa, Nicolas",
+            "Procedencia": "Escobar",
+            "Puntos": 4.0
+          },
+          {
+            "Posicion": 8,
+            "Jugador": "Bahamonde, Lautaro",
+            "Procedencia": "Caba",
+            "Puntos": 3.0
+          },
+          {
+            "Posicion": 9,
+            "Jugador": "Gnazzo, Victoria",
+            "Procedencia": "Lobos",
+            "Puntos": 3.0
+          },
+          {
+            "Posicion": 10,
+            "Jugador": "Molina, Samuel",
+            "Procedencia": "Suipacha",
+            "Puntos": 3.0
+          },
+          {
+            "Posicion": 11,
+            "Jugador": "Mujica Alancay, Maximiliano",
+            "Procedencia": "Lobos",
+            "Puntos": 2.5
+          },
+          {
+            "Posicion": 12,
+            "Jugador": "Trobec, Sol",
+            "Procedencia": "Villars",
+            "Puntos": 2.5
+          },
+          {
+            "Posicion": 13,
+            "Jugador": "Villalva, Tobias",
+            "Procedencia": "Suipacha",
+            "Puntos": 1.0
+          }
+        ]
+      }
+    },
+    "acumulado_puntos": [
+      {
+        "Jugador": "Victor, Pedro",
+        "Puntos": 12.0,
+        "Procedencia": "Lobos"
+      },
+      {
+        "Jugador": "Areitio, Valentino",
+        "Puntos": 11.0,
+        "Procedencia": "Luján"
+      },
+      {
+        "Jugador": "Villar, Lorenzo",
+        "Puntos": 9.0,
+        "Procedencia": "Campana"
+      },
+      {
+        "Jugador": "Fernandez, Gianlucca",
+        "Puntos": 9.0,
+        "Procedencia": "Escobar"
+      },
+      {
+        "Jugador": "Vedia Caiguara, Alejandro Rider",
+        "Puntos": 7.0,
+        "Procedencia": "Escobar"
+      },
+      {
+        "Jugador": "Pousa, Nicolas",
+        "Puntos": 7.0,
+        "Procedencia": "Escobar"
+      },
+      {
+        "Jugador": "Gnazzo, Victoria",
+        "Puntos": 6.5,
+        "Procedencia": "Lobos"
+      },
+      {
+        "Jugador": "Trobec, Sol",
+        "Puntos": 5.0,
+        "Procedencia": "Villars"
+      },
+      {
+        "Jugador": "Mujica Alancay, Maximiliano",
+        "Puntos": 4.5,
+        "Procedencia": "Lobos"
+      },
+      {
+        "Jugador": "Rivero, Emanuel",
+        "Puntos": 4.0,
+        "Procedencia": "Suipacha"
+      },
+      {
+        "Jugador": "Coseglia, Genaro",
+        "Puntos": 4.0,
+        "Procedencia": "Lobos"
+      },
+      {
+        "Jugador": "Gelmetti De Leon, Luciano",
+        "Puntos": 3.5,
+        "Procedencia": "Campana"
+      },
+      {
+        "Jugador": "Laforet, Juan Pablo",
+        "Puntos": 3.5,
+        "Procedencia": "Escobar"
+      },
+      {
+        "Jugador": "Bahamonde, Lautaro",
+        "Puntos": 3.0,
+        "Procedencia": "Caba"
+      },
+      {
+        "Jugador": "Molina, Samuel",
+        "Puntos": 3.0,
+        "Procedencia": "Suipacha"
+      },
+      {
+        "Jugador": "Cendon Denis, Adriel",
+        "Puntos": 1.5,
+        "Procedencia": "General Rodríguez"
+      },
+      {
+        "Jugador": "Baez, Cielo",
+        "Puntos": 1.0,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Villalva, Tobias",
+        "Puntos": 1.0,
+        "Procedencia": "Suipacha"
+      }
+    ],
+    "acumulado_gp": [
+      {
+        "Jugador": "Victor, Pedro",
+        "Puntos_GP": 43.0,
+        "Procedencia": "Lobos"
+      },
+      {
+        "Jugador": "Areitio, Valentino",
+        "Puntos_GP": 33.0,
+        "Procedencia": "Luján"
+      },
+      {
+        "Jugador": "Vedia Caiguara, Alejandro Rider",
+        "Puntos_GP": 25.0,
+        "Procedencia": "Escobar"
+      },
+      {
+        "Jugador": "Fernandez, Gianlucca",
+        "Puntos_GP": 25.0,
+        "Procedencia": "Escobar"
+      },
+      {
+        "Jugador": "Villar, Lorenzo",
+        "Puntos_GP": 24.0,
+        "Procedencia": "Campana"
+      },
+      {
+        "Jugador": "Rivero, Emanuel",
+        "Puntos_GP": 10.0,
+        "Procedencia": "Suipacha"
+      },
+      {
+        "Jugador": "Pousa, Nicolas",
+        "Puntos_GP": 8.0,
+        "Procedencia": "Escobar"
+      },
+      {
+        "Jugador": "Coseglia, Genaro",
+        "Puntos_GP": 8.0,
+        "Procedencia": "Lobos"
+      },
+      {
+        "Jugador": "Laforet, Juan Pablo",
+        "Puntos_GP": 8.0,
+        "Procedencia": "Escobar"
+      },
+      {
+        "Jugador": "Gnazzo, Victoria",
+        "Puntos_GP": 8.0,
+        "Procedencia": "Lobos"
+      },
+      {
+        "Jugador": "Bahamonde, Lautaro",
+        "Puntos_GP": 4.0,
+        "Procedencia": "Caba"
+      },
+      {
+        "Jugador": "Gelmetti De Leon, Luciano",
+        "Puntos_GP": 4.0,
+        "Procedencia": "Campana"
+      },
+      {
+        "Jugador": "Trobec, Sol",
+        "Puntos_GP": 1.0,
+        "Procedencia": "Villars"
+      },
+      {
+        "Jugador": "Molina, Samuel",
+        "Puntos_GP": 1.0,
+        "Procedencia": "Suipacha"
+      },
+      {
+        "Jugador": "Baez, Cielo",
+        "Puntos_GP": 0.0,
+        "Procedencia": "Tigre"
+      },
+      {
+        "Jugador": "Cendon Denis, Adriel",
+        "Puntos_GP": 0.0,
+        "Procedencia": "General Rodríguez"
+      },
+      {
+        "Jugador": "Mujica Alancay, Maximiliano",
+        "Puntos_GP": 0.0,
+        "Procedencia": "Lobos"
+      },
+      {
+        "Jugador": "Villalva, Tobias",
+        "Puntos_GP": 0.0,
+        "Procedencia": "Suipacha"
+      }
+    ]
+  }
+}
